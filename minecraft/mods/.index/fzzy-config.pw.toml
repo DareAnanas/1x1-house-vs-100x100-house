@@ -1,0 +1,16 @@
+filename = 'fzzy_config-0.5.6+1.20.1+forge.jar'
+name = 'Fzzy Config'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '7c3d09b40eb13d145baac81615762923ecacd95504096ecbea75559ff7fcb7033942c2d8dee2fa2877307ca0bb7337718741817ff79583b5b89ae78b205daea3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/hYykXjDp/versions/uJgdUw8o/fzzy_config-0.5.6%2B1.20.1%2Bforge.jar'
+
+[update.modrinth]
+mod-id = 'hYykXjDp'
+version = 'uJgdUw8o'

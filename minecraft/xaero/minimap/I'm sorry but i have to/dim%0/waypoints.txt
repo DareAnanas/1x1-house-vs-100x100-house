@@ -1,0 +1,20 @@
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
+#
+waypoint:Diamond 1:D:2408:-36:-985:3:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zombie Spawner 1:Z:1595:180:-973:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Morlorizur:M:639:124:-742:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Azakircred:A:1424:137:-781:2:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zorkmurmur:Z:1614:267:-1150:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Reizerark:R:1754:169:-449:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Stronghold 1:S:2389:-40:-919:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Marmiure:M:3619:251:-531:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Reimizur:R:3605:117:-1206:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jarlories:J:722:241:-1966:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Morredtron:M:142:244:-2866:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jarmaracer:J:136:187:-2958:1:false:0:gui.xaero_default:false:0:0:false
+waypoint:Azursalmard:A:240:131:-3232:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Jarmeeure:J:801:162:-3098:4:false:0:gui.xaero_default:false:0:0:false
+waypoint:Krmiritron:K:1742:236:-1886:0:false:0:gui.xaero_default:false:0:0:false
+waypoint:Crycresder:C:1526:155:-587:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Lukredzur:L:766:219:-2786:10:false:0:gui.xaero_default:false:0:0:false

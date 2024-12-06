@@ -1,0 +1,15 @@
+//waypoints config options
+usingMultiworldDetection:false
+ignoreServerLevelId:false
+teleportationEnabled:true
+usingDefaultTeleportCommand:true
+sortType:NONE
+sortReversed:false
+
+//other config options
+ignoreHeightmaps:false
+
+//dimension types (DO NOT EDIT)
+dimensionType:minecraft$the_nether:eco$the_open_nether
+dimensionType:minecraft$overworld:eco$the_open_overworld
+//server waypoints

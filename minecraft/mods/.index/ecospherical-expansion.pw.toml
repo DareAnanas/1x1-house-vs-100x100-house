@@ -1,0 +1,16 @@
+filename = 'ecosphericalexpansion-1.20.x-2.4.6.jar'
+name = 'Ecospherical Expansion'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.2-Snapshot' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '24c4d658826853049a076cbc8a2d9e9f3e1744e5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5216288
+project-id = 570025
