@@ -2453,6 +2453,12 @@
     },
     "done": true
   },
+  "pneumaticcraft:recipes/misc/spawner_core_shell": {
+    "criteria": {
+      "has_pressure_chamber_glass": "2024-12-06 13:27:22 +0200"
+    },
+    "done": true
+  },
   "pneumaticcraft:recipes/pressure_chamber/empty_pcb": {
     "criteria": {
       "pressure_chamber_valve": "2024-12-06 13:27:26 +0200"
@@ -2480,18 +2486,6 @@
   "pneumaticcraft:recipes/pressure_chamber/wheat_flour": {
     "criteria": {
       "pressure_chamber_valve": "2024-12-06 13:27:26 +0200"
-    },
-    "done": true
-  },
-  "pneumaticcraft:pressure_chamber": {
-    "criteria": {
-      "0": "2024-12-06 13:31:01 +0200"
-    },
-    "done": true
-  },
-  "pneumaticcraft:recipes/misc/spawner_core_shell": {
-    "criteria": {
-      "has_pressure_chamber_glass": "2024-12-06 13:27:22 +0200"
     },
     "done": true
   },
@@ -2552,6 +2546,990 @@
   "pneumaticcraft:recipes/pressure_chamber/turbine_blade": {
     "criteria": {
       "pressure_chamber_valve": "2024-12-06 13:27:26 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:pressure_chamber": {
+    "criteria": {
+      "0": "2024-12-06 13:31:01 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_from_shards": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-12-07 15:15:40 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/emerald_shard": {
+    "criteria": {
+      "has_item": "2024-12-07 15:15:40 +0200"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_copy_paste": {
+    "criteria": {
+      "has_emerald": "2024-12-07 15:15:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 15:17:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 15:17:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 15:17:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2024-12-07 15:17:19 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/speed_upgrade_from_glycerol": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/search_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/stomp_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/ender_visor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/range_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/block_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/gilded_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/magnet_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/armor_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/speed_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/coordinate_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/charging_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/security_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/volume_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/entity_tracker_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elytra_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/item_life_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/flippers_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/dispenser_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/inventory_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/standby_upgrade": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-12-07 15:17:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 15:17:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-07 15:17:30 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-07 15:17:30 +0200"
+    },
+    "done": true
+  },
+  "silentgear:swords": {
+    "criteria": {
+      "katana": "2024-12-07 15:21:03 +0200"
+    },
+    "done": false
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/minigun": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_interface": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_orange": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_red": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/cannon_barrel": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_sink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/stone_base": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermal_compressor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_gauge": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:root": {
+    "criteria": {
+      "0": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_block_from_ingot": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/elevator_frame": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_magenta": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_helmet": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/liquid_compressor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_stone_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/camo_applicator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_red": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_black": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermal_lagging": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x4": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass_x1": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_yellow": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/regulator_tube_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/refinery_output": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x1": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_valve_x4": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_orange": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_chest": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_brown": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_yellow": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_chestplate": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_leggings": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_wall": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_pillar": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermostat_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_tube": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_gear": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_green": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/kerosene_lamp": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_stairs": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_pink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_stone_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/thermopneumatic_processing_plant": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/gas_lift": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/seismic_sensor": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_core": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/transfer_gadget": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/manometer": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_brick_stairs": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_stone_from_slab": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/air_canister": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_brown": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/liquid_hopper": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_black": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_cyan": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_bricks": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_white": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pneumatic_wrench": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_purple": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/refinery": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_gray": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_brick_pillar": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_pink": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_pipe": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vortex_cannon": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/spawner_agitator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/redstone_module": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/compressed_iron_boots": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_inverted_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/heat_frame": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/omnidirectional_hopper": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_lime": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/wall_lamp_light_blue": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/reinforced_bricks_from_tile": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressure_chamber_glass": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/crop_support": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/logistics_configurator": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/small_tank": {
+    "criteria": {
+      "has_ingot_iron_compressed": "2024-12-07 15:21:20 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_block": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_nugget": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_repair_kit": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_steel": {
+    "criteria": {
+      "get_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_dust": {
+    "criteria": {
+      "has_item": "2024-12-08 14:52:55 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-08 14:54:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-08 14:54:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 14:54:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-08 14:54:08 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_block": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_smelting": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_steel_ingot": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_iron": {
+    "criteria": {
+      "get_ingot": "2024-12-08 14:54:19 +0200"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/salvager": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_dust_blasting": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_nugget": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/crimson_iron_block": {
+    "criteria": {
+      "has_item": "2024-12-08 14:54:19 +0200"
     },
     "done": true
   },
