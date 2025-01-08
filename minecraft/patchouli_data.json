@@ -30,7 +30,12 @@
         "pneumaticcraft:tubes/redstone_module",
         "pneumaticcraft:tubes/regulator_module",
         "pneumaticcraft:tubes/thermostat_module",
-        "pneumaticcraft:compressors/thermal_compressor"
+        "pneumaticcraft:compressors/thermal_compressor",
+        "pneumaticcraft:compressors/maunal_compressor",
+        "pneumaticcraft:compressors/solar_compressor",
+        "pneumaticcraft:spawning/pressurized_spawner",
+        "pneumaticcraft:spawning/spawner_core",
+        "pneumaticcraft:spawning/vacuum_trap"
       ],
       "bookmarks": [],
       "completedManualQuests": []

@@ -176,9 +176,39 @@
     },
     {
       "stack": "item:pneumaticcraft:pressure_gauge_module"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:pumpkin_seeds",
+        "amount": 6
+      }
     }
   ],
   "lookup_history": [
+    "item:pneumaticcraft:spawner_core",
+    "item:minecraft:gunpowder",
+    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
+    "item:minecraft:elytra{Damage:0}",
+    "item:silentgear:tyrian_steel_ingot",
+    "item:silentgear:azure_electrum_ingot",
+    "item:pneumaticcraft:spawner_agitator",
+    "item:pneumaticcraft:logistics_core",
+    "item:silentgear:crushed_shulker_shell",
+    "item:silentgear:azure_silver_ingot",
+    {
+      "type": "item",
+      "id": "silentgear:raw_azure_silver",
+      "amount": 64
+    },
+    "item:silentgear:coating_smithing_template",
+    "item:minecraft:netherite_ingot",
+    "item:silentgear:pickaxe{Damage:12,Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:3s}],RepairCost:7,SGear_Data:{Construction:{BrokenCount:1,Parts:[{ID:\"silentgear:pickaxe_head\",Item:{Count:1b,id:\"silentgear:pickaxe_head\",tag:{Damage:0,Materials:[{Count:3b,ID:\"silentgear:compressed_iron\",Item:{Count:1b,id:\"pneumaticcraft:ingot_iron_compressed\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}}],RepairCount:14},Properties:{HarvestTier:\"minecraft:diamond\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-3.0f,\"silentgear:charging_value\":0.8f,\"silentgear:durability\":1024.0f,\"silentgear:enchantment_value\":12.0f,\"silentgear:harvest_speed\":8.999999f,\"silentgear:magic_damage\":1.0f,\"silentgear:melee_damage\":5.0f,\"silentgear:rarity\":40.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:2b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:hard\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"pickaxe:pickaxe_head{compressed_iron,compressed_iron,compressed_iron},rod{wood},\"}},SGear_UUID:[I;1922876399,1638747634,-2041959101,-824414547]}",
+    "item:minecraft:smithing_table",
+    "item:pneumaticcraft:sourdough",
+    "item:pneumaticcraft:raw_salmon_tempura",
+    "item:pneumaticcraft:chips",
+    "item:pneumaticcraft:bandage",
     {
       "type": "item",
       "id": "pneumaticcraft:speed_upgrade",
@@ -324,7 +354,6 @@
     "item:refinedstorage:4k_storage_part",
     "item:pneumaticcraft:vortex_tube",
     "item:refinedstorage:raw_basic_processor",
-    "item:minecraft:netherite_ingot",
     "item:minecraft:rib_armor_trim_smithing_template",
     {
       "type": "item",
@@ -333,8 +362,6 @@
     },
     "item:pneumaticcraft:gun_ammo{Damage:0}",
     "item:pneumaticcraft:gun_ammo_weighted{Damage:0,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]}",
-    "item:pneumaticcraft:logistics_core",
-    "item:silentgear:pickaxe{Damage:0,Enchantments:[{id:\"minecraft:fortune\",lvl:3s},{id:\"minecraft:efficiency\",lvl:4s}],SGear_Data:{Construction:{Parts:[{ID:\"silentgear:pickaxe_head\",Item:{Count:1b,id:\"silentgear:pickaxe_head\",tag:{CraftedCount:1,Damage:0,Materials:[{Count:3b,ID:\"silentgear:emerald\",Item:{Count:1b,id:\"minecraft:emerald\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}}]},Properties:{HarvestTier:\"minecraft:iron\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-2.8f,\"silentgear:charging_value\":1.0f,\"silentgear:durability\":1080.0f,\"silentgear:enchantment_value\":16.0f,\"silentgear:harvest_speed\":10.0f,\"silentgear:magic_damage\":2.0f,\"silentgear:melee_damage\":3.0f,\"silentgear:rarity\":40.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:1b,Name:\"silentgear:brittle\"},{Level:2b,Name:\"silentgear:synergistic\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"pickaxe:pickaxe_head{emerald,emerald,emerald},rod{wood},\"}},SGear_UUID:[I;-130290423,1227246736,-1869972162,-2070883057]}",
     {
       "type": "item",
       "id": "refinedstorage:basic_processor",
@@ -419,9 +446,6 @@
       "amount": 62
     },
     "item:silentgear:crimson_iron_ingot",
-    "item:silentgear:azure_silver_ingot",
-    "item:silentgear:azure_electrum_ingot",
-    "item:silentgear:tyrian_steel_ingot",
     "item:silentgear:metal_press",
     "item:silentgear:recrystallizer",
     "item:silentgear:advanced_upgrade_base",
@@ -467,11 +491,6 @@
     "item:minecraft:dried_kelp",
     {
       "type": "item",
-      "id": "minecraft:smithing_table",
-      "amount": 2
-    },
-    {
-      "type": "item",
       "id": "minecraft:sweet_berries",
       "amount": 3
     },
@@ -491,7 +510,6 @@
     },
     "item:waystones:warp_stone{Damage:0}",
     "item:pneumaticcraft:air_compressor",
-    "item:silentgear:coating_smithing_template",
     {
       "type": "item",
       "id": "minecraft:netherite_upgrade_smithing_template",
@@ -871,6 +889,14 @@
     "item:minecraft:waxed_exposed_cut_copper"
   ],
   "craft_history": [
+    "minecraft:shulker_box",
+    "minecraft:chest",
+    "minecraft:crafting_table",
+    "minecraft:oak_planks",
+    "minecraft:oak_button",
+    "silentgear:coating_smithing_template",
+    "minecraft:smithing_table",
+    "minecraft:blaze_powder",
     "pneumaticcraft:solar_compressor",
     "pneumaticcraft:compressed_iron_block_from_ingot",
     "minecraft:bucket",
@@ -902,7 +928,6 @@
     "minecraft:stick",
     "pneumaticcraft:liquid_hopper",
     "minecraft:hopper",
-    "minecraft:chest",
     "pneumaticcraft:pneumatic_dynamo",
     "minecraft:acacia_sign",
     "minecraft:acacia_planks",
@@ -912,7 +937,6 @@
     "minecraft:orange_stained_glass_pane_from_glass_pane",
     "minecraft:orange_dye_from_orange_tulip",
     "minecraft:bone_meal",
-    "minecraft:oak_planks",
     "minecraft:brush",
     "minecraft:furnace",
     "minecraft:torch",
@@ -1018,7 +1042,6 @@
     "pneumaticcraft:compressed_brick_wall",
     "minecraft:diorite_stairs",
     "minecraft:diorite_wall",
-    "minecraft:crafting_table",
     "minecraft:oak_door",
     "minecraft:oak_trapdoor",
     "pneumaticcraft:printed_circuit_board",
@@ -1074,7 +1097,6 @@
     "minecraft:polished_deepslate_stairs",
     "minecraft:polished_deepslate",
     "minecraft:blast_furnace",
-    "minecraft:smithing_table",
     "silentgear:gear/convert/stone_pickaxe",
     "minecraft:anvil",
     "minecraft:iron_sword",

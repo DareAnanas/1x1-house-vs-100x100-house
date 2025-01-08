@@ -3539,5 +3539,47 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-08 16:13:25 +0200"
+    },
+    "done": false
+  },
+  "pneumaticcraft:recipes/misc/spawner_extractor": {
+    "criteria": {
+      "has_spawner_agitator": "2025-01-08 15:59:06 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:biodiesel": {
+    "criteria": {
+      "0": "2025-01-08 16:02:28 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/vacuum_module": {
+    "criteria": {
+      "has_vacuum_pump": "2025-01-08 16:01:54 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-08 16:13:25 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressurized_spawner": {
+    "criteria": {
+      "has_empty_spawner": "2025-01-08 15:58:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-08 16:13:25 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
