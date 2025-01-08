@@ -1,92 +1,92 @@
-[18Dec2024 08:40:46.944] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, DareAnanas, --version, 1.20.1, --gameDir, /home/danylo/.local/share/PrismLauncher/instances/1x1-house-vs-100x100-house/minecraft, --assetsDir, /home/danylo/.local/share/PrismLauncher/assets, --assetIndex, 5, --uuid, 5dc05cc6b9334bc58fa627c6718a8af8, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 854, --height, 480]
-[18Dec2024 08:40:46.950] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by N/A; OS Linux arch amd64 version 6.11.8-1-default
-[18Dec2024 08:40:47.416] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
-[18Dec2024 08:40:47.496] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
-[18Dec2024 08:40:47.562] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
-[18Dec2024 08:40:47.655] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/danylo/.local/share/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23140!/ Service=ModLauncher Env=CLIENT
-[18Dec2024 08:40:47.724] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 GL version 4.6.0 NVIDIA 550.135, NVIDIA Corporation
-[18Dec2024 08:40:48.018] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
-[18Dec2024 08:40:48.019] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[18Dec2024 08:40:48.021] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[18Dec2024 08:40:48.022] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
-[18Dec2024 08:40:48.221] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
-[18Dec2024 08:40:49.821] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18Dec2024 08:40:49.836] [main/ERROR] [mixin/]: Mixin config mixins.eco.json does not specify "minVersion" property
-[18Dec2024 08:40:49.871] [main/ERROR] [mixin/]: Mixin config emi_loot.mixins.json does not specify "minVersion" property
-[18Dec2024 08:40:49.942] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, /home/danylo/.local/share/PrismLauncher/instances/1x1-house-vs-100x100-house/minecraft, --assetsDir, /home/danylo/.local/share/PrismLauncher/assets, --uuid, 5dc05cc6b9334bc58fa627c6718a8af8, --username, DareAnanas, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --width, 854, --height, 480]
-[18Dec2024 08:40:49.984] [main/WARN] [mixin/]: Reference map 'beo.refmap.json' for beo.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 08:40:49.987] [main/WARN] [mixin/]: Reference map 'beo.refmap.json' for beo.forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[18Dec2024 08:40:50.070] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 0 override(s) found
-[18Dec2024 08:40:50.071] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[18Dec2024 08:40:50.082] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[18Dec2024 08:40:50.163] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 96 options available, 3 override(s) found
-[18Dec2024 08:40:50.165] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
-[18Dec2024 08:40:50.187] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=GP106 [GeForce GTX 1060 3GB], version=550.135]
-[18Dec2024 08:40:50.191] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
-[18Dec2024 08:40:50.191] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
-[18Dec2024 08:40:50.261] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
-[18Dec2024 08:40:50.331] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
-[18Dec2024 08:40:52.162] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.162] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.162] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.165] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.165] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.165] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.166] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.166] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.166] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.167] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.167] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
-[18Dec2024 08:40:52.297] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
-[18Dec2024 08:40:53.675] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (8.819 s after launch)
-[18Dec2024 08:40:53.733] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[18Dec2024 08:40:53.733] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
-[18Dec2024 08:40:53.781] [pool-4-thread-1/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[18Dec2024 08:40:53.781] [pool-4-thread-1/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
-[18Dec2024 08:40:54.417] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 740 milliseconds
-[18Dec2024 08:40:57.373] [Render thread/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_166786_ in embeddium.mixins.json:features.render.immediate.buffer_builder.sorting.BufferBuilderMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[18Dec2024 08:40:57.558] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/danylo/.local/share/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23238!/assets/.mcassetsroot' uses unexpected schema
-[18Dec2024 08:40:57.558] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/danylo/.local/share/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23238!/data/.mcassetsroot' uses unexpected schema
-[18Dec2024 08:40:57.573] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18Dec2024 08:40:58.121] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: DareAnanas
-[18Dec2024 08:40:58.297] [Render thread/INFO] [ModernFix/]: Bypassed Mojang DFU
-[18Dec2024 08:40:58.401] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
-[18Dec2024 08:40:58.439] [Render thread/WARN] [Embeddium-NvidiaWorkarounds/]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
-[18Dec2024 08:40:58.443] [Render thread/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
-[18Dec2024 08:40:58.443] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
-[18Dec2024 08:40:58.470] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: NVIDIA Corporation
-[18Dec2024 08:40:58.471] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2
-[18Dec2024 08:40:58.471] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 NVIDIA 550.135
-[18Dec2024 08:40:58.471] [Render thread/WARN] [Embeddium-PostlaunchChecks/]: Enabling secondary workaround for NVIDIA threaded optimizations
-[18Dec2024 08:40:58.482] [Render thread/INFO] [ImmediatelyFast/]: Initializing ImmediatelyFast 1.3.2+1.20.4 on NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 4.6.0 NVIDIA 550.135
-[18Dec2024 08:40:58.483] [Render thread/INFO] [ImmediatelyFast/]: Found Iris/Oculus 1.7.0. Enabling compatibility.
-[18Dec2024 08:40:58.594] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
-[18Dec2024 08:40:58.597] [Render thread/INFO] [Oculus/]: OpenGL 4.5 detected, enabling DSA.
-[18Dec2024 08:40:58.603] [Render thread/INFO] [Oculus/]: Shaders are disabled because enableShaders is set to false in iris.properties
-[18Dec2024 08:40:58.604] [Render thread/INFO] [Oculus/]: Shaders are disabled
-[18Dec2024 08:40:58.844] [modloading-worker-0/INFO] [BasicEndOres/]: Hello to Basic End Ores
-[18Dec2024 08:40:58.873] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.12, for MC 1.20.1 with MCP 20230612.114412
-[18Dec2024 08:40:58.874] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.12 Initialized
-[18Dec2024 08:40:58.945] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
-[18Dec2024 08:40:59.360] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
-[18Dec2024 08:40:59.364] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 2.497 ms
-[18Dec2024 08:40:59.475] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
-[18Dec2024 08:40:59.491] [modloading-worker-0/INFO] [dynamic_fps/]: Dynamic FPS 3.7.6 active on Forge!
-[18Dec2024 08:40:59.606] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
-[18Dec2024 08:40:59.607] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[18Dec2024 08:40:59.638] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
-[18Dec2024 08:41:00.049] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [jei,curios,patchouli]
-[18Dec2024 08:41:01.168] [Render thread/INFO] [BasicEndOres/]: BEO - Block Registered
-[18Dec2024 08:41:01.460] [Render thread/INFO] [BasicEndOres/]: BEO - Block Items Registered
-[18Dec2024 08:41:02.442] [Render thread/INFO] [Oculus/]: Hardware information:
-[18Dec2024 08:41:02.442] [Render thread/INFO] [Oculus/]: CPU: 8x Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
-[18Dec2024 08:41:02.442] [Render thread/INFO] [Oculus/]: GPU: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 550.135)
-[18Dec2024 08:41:02.443] [Render thread/INFO] [Oculus/]: OS: Linux (6.11.8-1-default)
-[18Dec2024 08:41:02.468] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
-[18Dec2024 08:41:02.476] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
-[18Dec2024 08:41:02.509] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
-[18Dec2024 08:41:02.524] [Finalizer/WARN] [ModernFix/]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
-[18Dec2024 08:41:03.036] [Render thread/ERROR] [com.mojang.text2speech.Narrator/]: Error while loading the narrator
+[08Jan2025 11:11:06.932] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--username, DareAnanas, --version, 1.20.1, --gameDir, /home/danylo/.local/share/PrismLauncher/instances/1x1-house-vs-100x100-house/minecraft, --assetsDir, /home/danylo/.local/share/PrismLauncher/assets, --assetIndex, 5, --uuid, 5dc05cc6b9334bc58fa627c6718a8af8, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --launchTarget, forgeclient, --fml.forgeVersion, 47.3.12, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, --width, 854, --height, 480]
+[08Jan2025 11:11:06.938] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.13 by N/A; OS Linux arch amd64 version 6.12.6-1-default
+[08Jan2025 11:11:07.410] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: Loading ImmediateWindowProvider fmlearlywindow
+[08Jan2025 11:11:07.485] [main/INFO] [EARLYDISPLAY/]: Trying GL version 4.6
+[08Jan2025 11:11:07.543] [main/INFO] [EARLYDISPLAY/]: Requested GL version 4.6 got version 4.6
+[08Jan2025 11:11:07.604] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/danylo/.local/share/PrismLauncher/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%23140!/ Service=ModLauncher Env=CLIENT
+[08Jan2025 11:11:07.753] [pool-2-thread-1/INFO] [EARLYDISPLAY/]: GL info: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 GL version 4.6.0 NVIDIA 550.135, NVIDIA Corporation
+[08Jan2025 11:11:08.007] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.12/fmlcore-1.20.1-47.3.12.jar is missing mods.toml file
+[08Jan2025 11:11:08.009] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.12/javafmllanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[08Jan2025 11:11:08.011] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.12/lowcodelanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[08Jan2025 11:11:08.013] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/danylo/.local/share/PrismLauncher/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.12/mclanguage-1.20.1-47.3.12.jar is missing mods.toml file
+[08Jan2025 11:11:08.229] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 14 dependencies adding them to mods collection
+[08Jan2025 11:11:09.901] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[08Jan2025 11:11:09.913] [main/ERROR] [mixin/]: Mixin config mixins.eco.json does not specify "minVersion" property
+[08Jan2025 11:11:09.940] [main/ERROR] [mixin/]: Mixin config emi_loot.mixins.json does not specify "minVersion" property
+[08Jan2025 11:11:10.001] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeclient' with arguments [--version, 1.20.1, --gameDir, /home/danylo/.local/share/PrismLauncher/instances/1x1-house-vs-100x100-house/minecraft, --assetsDir, /home/danylo/.local/share/PrismLauncher/assets, --uuid, 5dc05cc6b9334bc58fa627c6718a8af8, --username, DareAnanas, --assetIndex, 5, --accessToken, ❄❄❄❄❄❄❄❄, --userType, msa, --versionType, release, --width, 854, --height, 480]
+[08Jan2025 11:11:10.040] [main/WARN] [mixin/]: Reference map 'beo.refmap.json' for beo.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jan2025 11:11:10.042] [main/WARN] [mixin/]: Reference map 'beo.refmap.json' for beo.forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[08Jan2025 11:11:10.159] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.19.5+mc1.20.1: 84 options available, 0 override(s) found
+[08Jan2025 11:11:10.161] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[08Jan2025 11:11:10.180] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[08Jan2025 11:11:10.303] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 96 options available, 3 override(s) found
+[08Jan2025 11:11:10.305] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Searching for graphics cards...
+[08Jan2025 11:11:10.326] [main/INFO] [Embeddium-GraphicsAdapterProbe/]: Found graphics card: GraphicsAdapterInfo[vendor=NVIDIA, name=GP106 [GeForce GTX 1060 3GB], version=550.135]
+[08Jan2025 11:11:10.332] [main/WARN] [Embeddium-Workarounds/]: Embeddium has applied one or more workarounds to prevent crashes or other issues on your system: [NVIDIA_THREADED_OPTIMIZATIONS]
+[08Jan2025 11:11:10.332] [main/WARN] [Embeddium-Workarounds/]: This is not necessarily an issue, but it may result in certain features or optimizations being disabled. You can sometimes fix these issues by upgrading your graphics driver.
+[08Jan2025 11:11:10.440] [main/INFO] [Canary/]: Loaded configuration file for Canary: 116 options available, 0 override(s) found
+[08Jan2025 11:11:10.521] [main/INFO] [Embeddium Extra/]: Loaded configuration file for Sodium Extra: 35 options available, 0 override(s) found
+[08Jan2025 11:11:12.679] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.WorldRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.679] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.ClientWorldMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.679] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.world.sky.BackgroundRendererMixin' as rule 'mixin.features.render.world.sky' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.682] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.GlyphRendererMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.682] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.gui.font.FontSetMixin' as rule 'mixin.features.render.gui.font' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.683] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.shadows.EntityRenderDispatcherMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.683] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.683] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.remove_streams.HierarchicalModelMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.683] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.ModelPartMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.684] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.fast_render.CuboidMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.684] [main/WARN] [Embeddium/]: Force-disabling mixin 'features.render.entity.cull.EntityRendererMixin' as rule 'mixin.features.render.entity' (added by mods [oculus]) disables it and children
+[08Jan2025 11:11:12.831] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.4.1).
+[08Jan2025 11:11:14.096] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.394 s after launch)
+[08Jan2025 11:11:14.156] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByName:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Jan2025 11:11:14.156] [pool-4-thread-1/WARN] [mixin/]: @Final field delegatesByValue:Ljava/util/Map; in modernfix-forge.mixins.json:perf.forge_registry_alloc.ForgeRegistryMixin should be final
+[08Jan2025 11:11:14.205] [pool-4-thread-1/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getNeighborPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[08Jan2025 11:11:14.205] [pool-4-thread-1/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getPathNodeType from com.abdelaziz.canary.mixin.ai.pathing.BlockStateBaseMixin
+[08Jan2025 11:11:14.956] [pool-4-thread-1/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 858 milliseconds
+[08Jan2025 11:11:17.672] [Render thread/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_166786_ in embeddium.mixins.json:features.render.immediate.buffer_builder.sorting.BufferBuilderMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[08Jan2025 11:11:17.811] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/danylo/.local/share/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23238!/assets/.mcassetsroot' uses unexpected schema
+[08Jan2025 11:11:17.811] [Render thread/WARN] [net.minecraft.server.packs.VanillaPackResourcesBuilder/]: Assets URL 'union:/home/danylo/.local/share/PrismLauncher/libraries/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar%23238!/data/.mcassetsroot' uses unexpected schema
+[08Jan2025 11:11:17.826] [Render thread/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[08Jan2025 11:11:18.489] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Setting user: DareAnanas
+[08Jan2025 11:11:18.668] [Render thread/INFO] [ModernFix/]: Bypassed Mojang DFU
+[08Jan2025 11:11:18.769] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Backend library: LWJGL version 3.3.1 build 7
+[08Jan2025 11:11:18.805] [Render thread/WARN] [Embeddium-NvidiaWorkarounds/]: Applying workaround: Prevent the NVIDIA OpenGL driver from using broken optimizations (NVIDIA_THREADED_OPTIMIZATIONS)
+[08Jan2025 11:11:18.809] [Render thread/ERROR] [Embeddium-MixinTaintDetector/]: Mod mixin into Embeddium internals detected. This instance is now tainted. The Embeddium team does not provide any guarantee of support for issues encountered while such mods are installed.
+[08Jan2025 11:11:18.810] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumGameOptions, which may cause instability.
+[08Jan2025 11:11:18.832] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Vendor: NVIDIA Corporation
+[08Jan2025 11:11:18.832] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Renderer: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2
+[08Jan2025 11:11:18.832] [Render thread/INFO] [Embeddium-PostlaunchChecks/]: OpenGL Version: 4.6.0 NVIDIA 550.135
+[08Jan2025 11:11:18.832] [Render thread/WARN] [Embeddium-PostlaunchChecks/]: Enabling secondary workaround for NVIDIA threaded optimizations
+[08Jan2025 11:11:18.841] [Render thread/INFO] [ImmediatelyFast/]: Initializing ImmediatelyFast 1.3.2+1.20.4 on NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (NVIDIA Corporation) with OpenGL 4.6.0 NVIDIA 550.135
+[08Jan2025 11:11:18.842] [Render thread/INFO] [ImmediatelyFast/]: Found Iris/Oculus 1.7.0. Enabling compatibility.
+[08Jan2025 11:11:18.960] [Render thread/INFO] [Oculus/]: Debug functionality is disabled.
+[08Jan2025 11:11:18.962] [Render thread/INFO] [Oculus/]: OpenGL 4.5 detected, enabling DSA.
+[08Jan2025 11:11:18.968] [Render thread/INFO] [Oculus/]: Shaders are disabled because enableShaders is set to false in iris.properties
+[08Jan2025 11:11:18.969] [Render thread/INFO] [Oculus/]: Shaders are disabled
+[08Jan2025 11:11:19.188] [modloading-worker-0/INFO] [BasicEndOres/]: Hello to Basic End Ores
+[08Jan2025 11:11:19.224] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.12, for MC 1.20.1 with MCP 20230612.114412
+[08Jan2025 11:11:19.225] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.12 Initialized
+[08Jan2025 11:11:19.271] [modloading-worker-0/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.gui.SodiumOptionsGUI, which may cause instability.
+[08Jan2025 11:11:19.694] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager...
+[08Jan2025 11:11:19.698] [modloading-worker-0/INFO] [mezz.jei.library.load.PluginCaller/]: Sending ConfigManager took 3.063 ms
+[08Jan2025 11:11:19.769] [modloading-worker-0/INFO] [com.refinedmods.refinedstorage.apiimpl.API/]: Found 0 RS API injection points
+[08Jan2025 11:11:19.812] [modloading-worker-0/INFO] [dynamic_fps/]: Dynamic FPS 3.7.6 active on Forge!
+[08Jan2025 11:11:19.913] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering S2C receiver with id architectury:sync_ids
+[08Jan2025 11:11:19.914] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[08Jan2025 11:11:19.935] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[08Jan2025 11:11:20.241] [modloading-worker-0/INFO] [pneumaticcraft/]: Thirdparty integration activated for [jei,curios,patchouli]
+[08Jan2025 11:11:21.344] [Render thread/INFO] [BasicEndOres/]: BEO - Block Registered
+[08Jan2025 11:11:21.672] [Render thread/INFO] [BasicEndOres/]: BEO - Block Items Registered
+[08Jan2025 11:11:22.740] [Render thread/INFO] [Oculus/]: Hardware information:
+[08Jan2025 11:11:22.741] [Render thread/INFO] [Oculus/]: CPU: 8x Intel(R) Core(TM) i3-10100F CPU @ 3.60GHz
+[08Jan2025 11:11:22.741] [Render thread/INFO] [Oculus/]: GPU: NVIDIA GeForce GTX 1060 3GB/PCIe/SSE2 (Supports OpenGL 4.6.0 NVIDIA 550.135)
+[08Jan2025 11:11:22.741] [Render thread/INFO] [Oculus/]: OS: Linux (6.12.6-1-default)
+[08Jan2025 11:11:22.779] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.VertexFormatDescriptionImpl, which may cause instability.
+[08Jan2025 11:11:22.799] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.buffer.SodiumBufferBuilder, which may cause instability.
+[08Jan2025 11:11:22.838] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.SodiumWorldRenderer, which may cause instability.
+[08Jan2025 11:11:22.901] [Finalizer/WARN] [ModernFix/]: One or more BufferBuilders have been leaked, ModernFix will attempt to correct this.
+[08Jan2025 11:11:23.482] [Render thread/ERROR] [com.mojang.text2speech.Narrator/]: Error while loading the narrator
 com.mojang.text2speech.Narrator$InitializeException: Failed to load library flite_cmu_us_kal16
 	at com.mojang.text2speech.NarratorLinux$FliteLibrary$CmuUsKal16.loadNative(NarratorLinux.java:84) ~[text2speech-1.17.9.jar%2398!/:?]
 	at com.mojang.text2speech.NarratorLinux.<init>(NarratorLinux.java:19) ~[text2speech-1.17.9.jar%2398!/:?]
@@ -228,730 +228,92 @@ Native library (linux-x86-64/libflite_cmu_us_kal16.so) not found in resource pat
 		at org.prismlauncher.launcher.impl.StandardLauncher.launch(StandardLauncher.java:105) ~[?:?]
 		at org.prismlauncher.EntryPoint.listen(EntryPoint.java:129) ~[?:?]
 		at org.prismlauncher.EntryPoint.main(EntryPoint.java:70) ~[?:?]
-[18Dec2024 08:41:03.078] [Render thread/INFO] [ModernFix/]: Invalidating pack caches
-[18Dec2024 08:41:03.079] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
-[18Dec2024 08:41:03.232] [Worker-ResourceReload-2/INFO] [pneumaticcraft/]: PneumaticCraft: Repressurized is loading!
-[18Dec2024 08:41:03.286] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
-[18Dec2024 08:41:03.424] [Worker-ResourceReload-6/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
-[18Dec2024 08:41:03.699] [Worker-ResourceReload-2/WARN] [net.minecraft.client.renderer.texture.SpriteContents/]: Unused frames in sprite refinedstorage:block/destructor/cutouts/connected: [20, 21, 22, 23]
-[18Dec2024 08:41:03.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
-[18Dec2024 08:41:03.800] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
-[18Dec2024 08:41:04.015] [Render thread/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
-[18Dec2024 08:41:04.015] [Render thread/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
-[18Dec2024 08:41:04.029] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
-[18Dec2024 08:41:04.030] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
-[18Dec2024 08:41:04.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
-[18Dec2024 08:41:04.083] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [charginggadgets] Starting version check at https://raw.githubusercontent.com/Direwolf20-MC/ChargingGadgets/master/update.json
-[18Dec2024 08:41:04.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [charginggadgets] Found status: BETA Current: 1.11.0 Target: null
-[18Dec2024 08:41:04.116] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Starting version check at https://raw.githubusercontent.com/TeamPneumatic/pnc-repressurized/1.20.1/release_info.json
-[18Dec2024 08:41:04.152] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Found status: AHEAD Current: 6.0.17+mc1.20.1 Target: null
-[18Dec2024 08:41:04.153] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18Dec2024 08:41:04.252] [Worker-ResourceReload-1/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
-[18Dec2024 08:41:04.272] [Worker-ResourceReload-5/INFO] [EMI/]: [EMI] Discovered Sodium
-[18Dec2024 08:41:04.329] [Worker-ResourceReload-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2
-[18Dec2024 08:41:04.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: AHEAD Current: 47.3.12 Target: null
-[18Dec2024 08:41:04.377] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
-[18Dec2024 08:41:04.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
-[18Dec2024 08:41:04.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.19.x/update.json
-[18Dec2024 08:41:04.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: BETA Current: 3.6.6 Target: null
-[18Dec2024 08:41:04.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultworldtype] Starting version check at https://assets.melanx.de/updates/defaultworldtype.json
-[18Dec2024 08:41:04.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultworldtype] Found status: BETA Current: 1.20.1-4.0.4 Target: 1.20.1-4.0.4
-[18Dec2024 08:41:04.551] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
-[18Dec2024 08:41:04.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
-[18Dec2024 08:41:04.593] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
-[18Dec2024 08:41:04.803] [Render thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2
-[18Dec2024 08:41:04.928] [Worker-ResourceReload-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:cover#inventory' referenced from: refinedstorage:cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/cover.json
-[18Dec2024 08:41:04.928] [Worker-ResourceReload-4/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:hollow_cover#inventory' referenced from: refinedstorage:hollow_cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/hollow_cover.json
-[18Dec2024 08:41:05.021] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered player tracker system: minimap_synced
-[18Dec2024 08:41:05.022] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: World Map found!
-[18Dec2024 08:41:05.022] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No Optifine!
-[18Dec2024 08:41:05.022] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
-[18Dec2024 08:41:05.023] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: Iris found!
-[18Dec2024 08:41:05.023] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
-[18Dec2024 08:41:05.029] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: 747283566
-[18Dec2024 08:41:05.030] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
-[18Dec2024 08:41:05.036] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's WorldMap Mod: Xaero's minimap found!
-[18Dec2024 08:41:05.040] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: minimap_synced
-[18Dec2024 08:41:05.040] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
-[18Dec2024 08:41:05.041] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
-[18Dec2024 08:41:05.041] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
-[18Dec2024 08:41:05.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
-[18Dec2024 08:41:05.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[18Dec2024 08:41:05.960] [Worker-ResourceReload-2/INFO] [pneumaticcraft/]: Sending IMC messages.
-[18Dec2024 08:41:05.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
-[18Dec2024 08:41:05.978] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
-[18Dec2024 08:41:06.055] [Worker-ResourceReload-0/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
-[18Dec2024 08:41:06.071] [Worker-ResourceReload-0/INFO] [Jade/]: Start loading plugin at me.desht.pneumaticcraft.common.thirdparty.waila.WailaRegistration
-[18Dec2024 08:41:06.077] [Worker-ResourceReload-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
-[18Dec2024 08:41:06.109] [Worker-ResourceReload-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
-[18Dec2024 08:41:06.114] [Worker-ResourceReload-0/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
-[18Dec2024 08:41:06.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
-[18Dec2024 08:41:06.227] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
-[18Dec2024 08:41:06.299] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
-[18Dec2024 08:41:06.299] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
-[18Dec2024 08:41:06.340] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device Built-in Audio Analog Stereo
-[18Dec2024 08:41:06.340] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
-[18Dec2024 08:41:06.453] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.7.6 Target: 3.7.7
-[18Dec2024 08:41:06.454] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
-[18Dec2024 08:41:06.454] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
-[18Dec2024 08:41:06.479] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
-[18Dec2024 08:41:06.480] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
-[18Dec2024 08:41:06.481] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
-[18Dec2024 08:41:06.481] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
-[18Dec2024 08:41:06.485] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
-[18Dec2024 08:41:06.486] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
-[18Dec2024 08:41:06.486] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
-[18Dec2024 08:41:06.487] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
-[18Dec2024 08:41:06.613] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
-[18Dec2024 08:41:06.664] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
-[18Dec2024 08:41:06.666] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
-[18Dec2024 08:41:06.667] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
-[18Dec2024 08:41:06.670] [Render thread/INFO] [xaero.map.WorldMap/]: Successfully reloaded the world map shaders!
-[18Dec2024 08:41:06.672] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
-[18Dec2024 08:41:06.681] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader preloaded 293 jsons
-[18Dec2024 08:41:06.686] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Successfully reloaded the minimap shaders!
-[18Dec2024 08:41:06.726] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[18Dec2024 08:41:06.731] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
-[18Dec2024 08:41:07.487] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
-[18Dec2024 08:41:08.805] [Render thread/WARN] [ModernFix/]: Game took 23.95 seconds to start
-[18Dec2024 08:41:18.569] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/ratlantis_tower as it is missing following references: rats:ratlantis (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.569] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_canopy_tower as it is missing following references: twilightforest:forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	twilightforest:spooky_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	twilightforest:mushroom_forest (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.570] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/aether_tower as it is missing following references: #aether:is_aether (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.570] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everbright_tower as it is missing following references: blue_skies:calming_skies (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:brightlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:slushlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:frostbitten_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:frostbitten_forest_clearing (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:snow_covered_pines (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:brisk_meadow (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:polar_highland (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.570] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/moon_tower as it is missing following references: ad_astra:lunar_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.571] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mars_tower as it is missing following references: ad_astra:martian_canyon_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	ad_astra:martian_wastelands (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.571] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/tw_mangrove_tower as it is missing following references: twilightforest:swamp (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	twilightforest:fire_swamp (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.571] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/venus_tower as it is missing following references: ad_astra:infernal_venus_barrens (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.571] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/everdawn_tower as it is missing following references: blue_skies:unorthodox_valley (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:shaded_woodlands (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:crystal_dunes (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:crystal_dunes_spikes (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:sunset_maple_forest (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:rising_creek (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:crystal_roughs (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:searing_grassland (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	blue_skies:crescent_orchard (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.572] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/glacio_tower as it is missing following references: ad_astra:glacio_snowy_barrens (from totw_modded-forge-1.20.1-1.0.5.jar), 
-	ad_astra:glacio_ice_peaks (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.572] [Worker-ResourceReload-5/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag totw_modded:has_structure/mercury_tower as it is missing following references: ad_astra:mercury_deltas (from totw_modded-forge-1.20.1-1.0.5.jar)
-[18Dec2024 08:41:18.789] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_treasure' into 'minecraft:chests/bastion_treasure'
-[18Dec2024 08:41:18.803] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Registered material modifier silentgear:grade
-[18Dec2024 08:41:18.803] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Registered material modifier silentgear:starcharged
-[18Dec2024 08:41:18.814] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/nether_bridge' into 'minecraft:chests/nether_bridge'
-[18Dec2024 08:41:18.836] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/spider' into 'minecraft:entities/spider'
-[18Dec2024 08:41:18.840] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/zombie_villager' into 'minecraft:entities/zombie_villager'
-[18Dec2024 08:41:18.857] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/ruined_portal' into 'minecraft:chests/ruined_portal'
-[18Dec2024 08:41:18.875] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/entities/cave_spider' into 'minecraft:entities/cave_spider'
-[18Dec2024 08:41:18.881] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_bridge' into 'minecraft:chests/bastion_bridge'
-[18Dec2024 08:41:18.892] [Worker-ResourceReload-4/INFO] [Silent Gear/]: Injecting loot table 'silentgear:inject/minecraft/chests/bastion_other' into 'minecraft:chests/bastion_other'
-[18Dec2024 08:41:18.923] [Render thread/INFO] [emi_loot/]: parsing loot tables
-[18Dec2024 08:41:19.004] [Render thread/INFO] [emi_loot/]: finished parsing loot tables
-[18Dec2024 08:41:19.020] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block create:blaze_burner: mod not loaded
-[18Dec2024 08:41:19.020] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/create/blaze_burner_seething as it's serializer returned null
-[18Dec2024 08:41:19.028] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_creosote as it's serializer returned null
-[18Dec2024 08:41:19.036] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:cryptic_campfire: mod not loaded
-[18Dec2024 08:41:19.036] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/cryptic_campfire as it's serializer returned null
-[18Dec2024 08:41:19.038] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:magmatic_stone: mod not loaded
-[18Dec2024 08:41:19.039] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/magmatic_stone as it's serializer returned null
-[18Dec2024 08:41:19.040] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block natura:nether_heat_sand: mod not loaded
-[18Dec2024 08:41:19.040] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/natura/nether_heat_sand as it's serializer returned null
-[18Dec2024 08:41:19.043] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:ancient_emerald_ice: mod not loaded
-[18Dec2024 08:41:19.043] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/ancient_emerald_ice as it's serializer returned null
-[18Dec2024 08:41:19.044] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:boric_campfire: mod not loaded
-[18Dec2024 08:41:19.044] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/boric_campfire as it's serializer returned null
-[18Dec2024 08:41:19.047] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block valhelsia_structures:brazier: mod not loaded
-[18Dec2024 08:41:19.047] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/valhelsia_structures/brazier as it's serializer returned null
-[18Dec2024 08:41:19.048] [Render thread/ERROR] [net.minecraft.world.item.crafting.RecipeManager/]: Parsing error loading recipe netherite_ore_remined:create_netherite_ore: com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:crushing'
-[18Dec2024 08:41:19.049] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block create:blaze_burner: mod not loaded
-[18Dec2024 08:41:19.049] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/create/blaze_burner_smouldering as it's serializer returned null
-[18Dec2024 08:41:19.050] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:emerald_ice: mod not loaded
-[18Dec2024 08:41:19.050] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/emerald_ice as it's serializer returned null
-[18Dec2024 08:41:19.050] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block occultism:spirit_fire: mod not loaded
-[18Dec2024 08:41:19.051] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/occultism/spirit_fire as it's serializer returned null
-[18Dec2024 08:41:19.051] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block powah:dry_ice: mod not loaded
-[18Dec2024 08:41:19.051] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/powah/dry_ice as it's serializer returned null
-[18Dec2024 08:41:19.053] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/hydrogen as it's serializer returned null
-[18Dec2024 08:41:19.056] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block betterendforge:dense_emerald_ice: mod not loaded
-[18Dec2024 08:41:19.056] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/betterendforge/dense_emerald_ice as it's serializer returned null
-[18Dec2024 08:41:19.064] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:one_probe_crafting as it's serializer returned null
-[18Dec2024 08:41:19.066] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block byg:cryptic_magma_block: mod not loaded
-[18Dec2024 08:41:19.066] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/byg/cryptic_magma as it's serializer returned null
-[18Dec2024 08:41:19.067] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block botania:blaze_block: mod not loaded
-[18Dec2024 08:41:19.067] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/botania/blaze_block as it's serializer returned null
-[18Dec2024 08:41:19.081] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block create:blaze_burner: mod not loaded
-[18Dec2024 08:41:19.081] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/create/blaze_burner_kindled as it's serializer returned null
-[18Dec2024 08:41:19.086] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block immersiveengineering:storage_uranium: mod not loaded
-[18Dec2024 08:41:19.086] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/immersiveengineering/uranium as it's serializer returned null
-[18Dec2024 08:41:19.088] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block quark:permafrost: mod not loaded
-[18Dec2024 08:41:19.088] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/quark/permafrost as it's serializer returned null
-[18Dec2024 08:41:19.088] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block decorative_blocks:brazier: mod not loaded
-[18Dec2024 08:41:19.088] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/decorative_blocks/brazier as it's serializer returned null
-[18Dec2024 08:41:19.089] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block quark:blaze_lantern: mod not loaded
-[18Dec2024 08:41:19.089] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/quark/blaze_lantern as it's serializer returned null
-[18Dec2024 08:41:19.091] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block decorative_blocks:soul_brazier: mod not loaded
-[18Dec2024 08:41:19.091] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/decorative_blocks/soul_brazier as it's serializer returned null
-[18Dec2024 08:41:19.092] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:radiation_shield_mekanism as it's serializer returned null
-[18Dec2024 08:41:19.092] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/ethylene as it's serializer returned null
-[18Dec2024 08:41:19.094] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_refined_fuel as it's serializer returned null
-[18Dec2024 08:41:19.097] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:pneumaticcraft_fuels/cofh_tree_oil as it's serializer returned null
-[18Dec2024 08:41:19.098] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block create:blaze_burner: mod not loaded
-[18Dec2024 08:41:19.098] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/create/blaze_burner_fading as it's serializer returned null
-[18Dec2024 08:41:19.098] [Render thread/INFO] [pneumaticcraft/]: ignoring heat properties for block mekanism:block_uranium: mod not loaded
-[18Dec2024 08:41:19.098] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:block_heat_properties/mekanism/uranium as it's serializer returned null
-[18Dec2024 08:41:19.099] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe pneumaticcraft:drone_interface as it's serializer returned null
-[18Dec2024 08:41:19.103] [Render thread/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 24 recipes
-[18Dec2024 08:41:19.225] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2402 advancements
-[18Dec2024 08:41:19.233] [Render thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 10 curio slots
-[18Dec2024 08:41:19.236] [Render thread/INFO] [top.theillusivec4.curios.Curios/]: Loaded 1 curio entities
-[18Dec2024 08:41:19.246] [Render thread/INFO] [Silent Gear/TraitManager]: Reloading trait files
-[18Dec2024 08:41:19.246] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:accelerate in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.248] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:not'
-[18Dec2024 08:41:19.249] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:and'
-[18Dec2024 08:41:19.249] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:or'
-[18Dec2024 08:41:19.250] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:gear_type'
-[18Dec2024 08:41:19.251] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_count'
-[18Dec2024 08:41:19.251] [Render thread/INFO] [Silent Gear/TraitManager]: Registered condition serializer 'silentgear:material_ratio'
-[18Dec2024 08:41:19.252] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:simple_trait'
-[18Dec2024 08:41:19.252] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:damage_type'
-[18Dec2024 08:41:19.253] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:durability'
-[18Dec2024 08:41:19.255] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:enchantment'
-[18Dec2024 08:41:19.256] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:nbt'
-[18Dec2024 08:41:19.257] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:wielder_effect'
-[18Dec2024 08:41:19.258] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stat_modifier'
-[18Dec2024 08:41:19.259] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:attribute'
-[18Dec2024 08:41:19.261] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_placer'
-[18Dec2024 08:41:19.262] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_filler'
-[18Dec2024 08:41:19.263] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:synergy'
-[18Dec2024 08:41:19.264] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:target_effect'
-[18Dec2024 08:41:19.264] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:bonus_drops'
-[18Dec2024 08:41:19.265] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:cancel_effects'
-[18Dec2024 08:41:19.266] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:self_repair'
-[18Dec2024 08:41:19.267] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:stellar'
-[18Dec2024 08:41:19.267] [Render thread/INFO] [Silent Gear/TraitManager]: Registered serializer 'silentgear:block_mining_speed'
-[18Dec2024 08:41:19.268] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:adamant in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.269] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:ancient in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.270] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:aquatic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.270] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:bastion in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:bending in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:bounce in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:brilliant in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:brittle in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:bulky in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:chilled in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:chipping in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:confetti in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:crackler in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.271] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:crude in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:crushing in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:cure_poison in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:cure_wither in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:cursed in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:eroded in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.272] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:fiery in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:fireproof in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:flame_ward in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:flammable in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:flexible in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:floatstoner in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.273] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:gold_digger in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:greedy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:hard in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:heavy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:holy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:ignite in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:imperial in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:indestructible in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.274] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:jabberwocky in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:jagged in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:kitty_vision in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:light in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:lucky in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:lustrous in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:magmatic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:magnetic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:malleable in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:mighty in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:moonwalker in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.275] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:multi_break in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.276] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:nc_radiation_protection in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.276] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:organic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:racker in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:reach in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:red_card in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:refractive in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:renew in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:road_maker in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:rustic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.277] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:sharp in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:silky in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:snow_walker in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:soft in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:spoon in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:stellar in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:sturdy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:swift_swim in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:synergistic in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:terminus in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:turtle in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.278] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:venom in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.280] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:void_ward in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.280] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:vulcan in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.280] [Render thread/INFO] [Silent Gear/]: Deserializing trait silentgear:widen in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.280] [Render thread/INFO] [Silent Gear/TraitManager]: Registered 70 traits
-[18Dec2024 08:41:19.281] [Render thread/INFO] [Silent Gear/PartManager]: Reloading part files
-[18Dec2024 08:41:19.282] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:adornment in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.286] [Render thread/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:compound_part'
-[18Dec2024 08:41:19.286] [Render thread/INFO] [Silent Gear/PartManager]: Registered part serializer 'silentgear:misc_upgrade'
-[18Dec2024 08:41:19.287] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:arrow_heads in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.291] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:axe_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:binding in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:boot_plates in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:bow_limbs in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:bowstring in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:bracelet_band in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:chestplate_plates in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.292] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:coating in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:crossbow_limbs in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:dagger_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:elytra_wings in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:excavator_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:fishing_reel_and_hook in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:fletching in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.293] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:grip in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:hammer_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:helmet_plates in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:hoe_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:katana_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:knife_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:legging_plates in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:lining in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.294] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:machete_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.295] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:mattock_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.295] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:misc/red_card in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.297] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:misc/road_maker in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.297] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:misc/spoon in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:misc/wide_plate in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:paxel_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:pickaxe_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:prospector_hammer_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:ring_shank in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.298] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:rod in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:saw_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:shears_blades in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:shield_plate in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:shovel_head in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:sickle_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:slingshot_limbs in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:spear_tip in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.299] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:sword_blade in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.300] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:tip in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.300] [Render thread/INFO] [Silent Gear/]: Deserializing part silentgear:trident_prongs in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.300] [Render thread/INFO] [Silent Gear/PartManager]: Registered 45 parts
-[18Dec2024 08:41:19.302] [Render thread/INFO] [Silent Gear/MaterialManager]: Reloading material files
-[18Dec2024 08:41:19.302] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:aluminum in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.307] [Render thread/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:standard'
-[18Dec2024 08:41:19.308] [Render thread/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:compound'
-[18Dec2024 08:41:19.308] [Render thread/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:custom_compound'
-[18Dec2024 08:41:19.309] [Render thread/INFO] [Silent Gear/MaterialManager]: Registered material serializer 'silentgear:crafted'
-[18Dec2024 08:41:19.314] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:aluminum_steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.315] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:amethyst in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.315] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:azure_electrum in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.316] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:azure_silver in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.316] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bamboo in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.317] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:barrier in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.317] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:basalt in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.317] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.318] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth_brass in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.318] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bismuth_steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.319] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:blackstone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.319] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:blaze_gold in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.320] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:blaze_rod in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.320] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.321] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:brass in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.321] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:bronze in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.321] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:compressed_iron in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.322] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:copper in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.322] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:crimson_iron in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.323] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:crimson_steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.323] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:diamond in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.324] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:dimerald in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.324] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:electrum in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.325] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:emerald in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.325] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:end_rod in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.326] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:end_stone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.326] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:enderium in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.326] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:example in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.327] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:feather in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.327] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:fine_silk in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.327] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:fine_silk_cloth in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.328] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:flax in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.328] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:flint in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.328] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:fluffy_string in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.329] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:glowstone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.329] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:gold in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.329] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:high_carbon_steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.330] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:hybrid_gem in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.332] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:invar in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.332] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:iron in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.332] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:lapis_lazuli in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.333] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:lead in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.333] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:leather in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.333] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:leaves in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.334] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:lumium in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.334] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:metal_alloy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.334] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:mixed_fabric in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.334] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:netherite in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.334] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:netherrack in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.335] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:netherwood in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.335] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:nickel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.335] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:obsidian in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.336] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:osmium in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.336] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:paper in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.336] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:phantom_membrane in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.337] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:platinum in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.337] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:prismarine in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.337] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:quartz in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.338] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:redstone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.338] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:redstone_alloy in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.338] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:refined_glowstone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.339] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:refined_iron in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.339] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:refined_obsidian in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.339] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:sandstone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.340] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:sandstone/red in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.340] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:sheet_metal in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.341] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:signalum in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.341] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:silver in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.341] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:sinew in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.342] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:slime in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.342] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.342] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:stone in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.342] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:stone/andesite in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.342] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:stone/diorite in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.343] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:stone/granite in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.343] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:string in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.343] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.343] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/black in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.343] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/blue in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/brown in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/cyan in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/gray in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/green in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/light_blue in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/light_gray in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.344] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/lime in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/magenta in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/orange in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/pink in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/purple in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/red in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.345] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/white in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.346] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:terracotta/yellow in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.346] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:tin in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.346] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:titanium in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.346] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:turtle in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.347] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:tyrian_steel in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.347] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:uranium in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.347] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:vine in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.347] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.348] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/acacia in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.348] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/birch in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.348] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/crimson in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.348] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/dark_oak in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.349] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/jungle in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.349] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/oak in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.349] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/rough in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.349] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/spruce in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.349] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wood/warped in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.350] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.350] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/black in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.350] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/blue in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.350] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/brown in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.350] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/cyan in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/gray in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/green in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/light_blue in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/light_gray in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/lime in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.351] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/magenta in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/orange in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/pink in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/purple in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/red in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/white in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:wool/yellow in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.352] [Render thread/INFO] [Silent Gear/]: Deserializing material silentgear:zinc in pack silent-gear-1.20.1-3.6.6.jar
-[18Dec2024 08:41:19.366] [Render thread/WARN] [net.minecraft.core.MappedRegistry/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: totw_modded:has_structure/aether_tower, totw_modded:has_structure/everbright_tower, totw_modded:has_structure/everdawn_tower, totw_modded:has_structure/glacio_tower, totw_modded:has_structure/mars_tower, totw_modded:has_structure/mercury_tower, totw_modded:has_structure/moon_tower, totw_modded:has_structure/ratlantis_tower, totw_modded:has_structure/tw_canopy_tower, totw_modded:has_structure/tw_mangrove_tower, totw_modded:has_structure/venus_tower
-[18Dec2024 08:41:19.369] [Render thread/WARN] [net.minecraftforge.registries.NamespacedWrapper/]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:gravel
-[18Dec2024 08:41:19.382] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
-[18Dec2024 08:41:19.399] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
-[18Dec2024 08:41:19.401] [Thread-7/INFO] [EMI/]: [EMI] Clearing data
-[18Dec2024 08:41:19.703] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Starting integrated minecraft server version 1.20.1
-[18Dec2024 08:41:19.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18Dec2024 08:41:19.811] [Server thread/INFO] [Framework/]: Loading server configs...
-[18Dec2024 08:41:20.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18Dec2024 08:41:20.098] [Server thread/WARN] [mixin/]: Method overwrite conflict for removeIf in canary.mixins.json:world.chunk_tickets.SortedArraySetMixin, previously written by org.embeddedt.modernfix.common.mixin.bugfix.paper_chunk_patches.SortedArraySetMixin. Skipping method.
-[18Dec2024 08:41:21.814] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18Dec2024 08:41:21.821] [Render thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 34328 ms
-[18Dec2024 08:41:21.839] [Server thread/INFO] [Silent Gear/TraitManager]: Traits loaded: 70
-[18Dec2024 08:41:21.839] [Server thread/INFO] [Silent Gear/PartManager]: Parts loaded: 45
-[18Dec2024 08:41:21.840] [Server thread/INFO] [Silent Gear/PartManager]: - Compound: 41
-[18Dec2024 08:41:21.840] [Server thread/INFO] [Silent Gear/PartManager]: - Simple: 4
-[18Dec2024 08:41:21.840] [Server thread/INFO] [Silent Gear/MaterialManager]: Materials loaded: 128
-[18Dec2024 08:41:21.840] [Server thread/INFO] [Silent Gear/MaterialManager]: - Standard: 122
-[18Dec2024 08:41:21.841] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
-[18Dec2024 08:41:22.005] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing view distance to 12, from 10
-[18Dec2024 08:41:22.007] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Changing simulation distance to 12, from 0
-[18Dec2024 08:41:22.069] [Render thread/WARN] [io.netty.util.internal.SystemPropertyUtil/]: Unable to parse the boolean system property 'java.net.preferIPv6Addresses':system - using the default value: false
-[18Dec2024 08:41:22.349] [Render thread/INFO] [Silent Gear/]: Read 70 traits from server
-[18Dec2024 08:41:22.399] [Render thread/INFO] [Silent Gear/]: Read 45 parts from server
-[18Dec2024 08:41:22.449] [Render thread/INFO] [Silent Gear/]: Read 128 materials from server
-[18Dec2024 08:41:22.993] [Netty Local Client IO #0/INFO] [net.minecraftforge.network.NetworkHooks/]: Connected to a modded server.
-[18Dec2024 08:41:23.118] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DareAnanas[local:E:005577cb] logged in with entity id 66 at (1473.8867893137196, 223.0, -1051.643014200501)
-[18Dec2024 08:41:23.177] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: New Xaero hud session initialized!
-[18Dec2024 08:41:23.223] [Render thread/INFO] [xaero.map.WorldMap/]: New world map session initialized!
-[18Dec2024 08:41:23.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DareAnanas joined the game
-[18Dec2024 08:41:23.254] [Render thread/INFO] [Oculus/]: Reloading pipeline on dimension change: NamespacedId{namespace='minecraft', name='overworld'} => NamespacedId{namespace='minecraft', name='overworld'}
-[18Dec2024 08:41:23.255] [Render thread/INFO] [Oculus/]: Destroying pipeline NamespacedId{namespace='minecraft', name='overworld'}
-[18Dec2024 08:41:23.255] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
-[18Dec2024 08:41:23.278] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.RenderSectionManager, which may cause instability.
-[18Dec2024 08:41:23.288] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.tasks.ChunkBuilderMeshingTask, which may cause instability.
-[18Dec2024 08:41:23.302] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshFormats, which may cause instability.
-[18Dec2024 08:41:23.303] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.format.ChunkMeshAttribute, which may cause instability.
-[18Dec2024 08:41:23.306] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexFormat$Builder, which may cause instability.
-[18Dec2024 08:41:23.308] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.attribute.GlVertexAttributeFormat, which may cause instability.
-[18Dec2024 08:41:23.311] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.DefaultChunkRenderer, which may cause instability.
-[18Dec2024 08:41:23.311] [Server thread/INFO] [Jade/]: Syncing config to DareAnanas (5dc05cc6-b933-4bc5-8fa6-27c6718a8af8)
-[18Dec2024 08:41:23.316] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.ShaderChunkRenderer, which may cause instability.
-[18Dec2024 08:41:23.332] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.ChunkBuildBuffers, which may cause instability.
-[18Dec2024 08:41:23.335] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.vertex.builder.ChunkMeshBufferBuilder, which may cause instability.
-[18Dec2024 08:41:23.338] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.compile.buffers.BakedChunkModelBuilder, which may cause instability.
-[18Dec2024 08:41:23.353] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/blockview/v2/FabricBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.blockview.v2.FabricBlockView)
-[18Dec2024 08:41:23.356] [Render thread/WARN] [mixin/]: Error loading class: net/fabricmc/fabric/api/rendering/data/v1/RenderAttachedBlockView (java.lang.ClassNotFoundException: net.fabricmc.fabric.api.rendering.data.v1.RenderAttachedBlockView)
-[18Dec2024 08:41:23.366] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.smooth.SmoothLightPipeline, which may cause instability.
-[18Dec2024 08:41:23.369] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.model.light.flat.FlatLightPipeline, which may cause instability.
-[18Dec2024 08:41:23.388] [Render thread/INFO] [ChunkBuilder/]: Started 2 worker threads
-[18Dec2024 08:41:23.400] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.occlusion.OcclusionCuller, which may cause instability.
-[18Dec2024 08:41:23.427] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingIn
-[18Dec2024 08:41:23.427] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from DISABLED to ENABLED
-[18Dec2024 08:41:23.534] [Render thread/WARN] [net.minecraft.client.ClientRecipeBook/]: Unknown recipe category: silentgear:pressing/silentgear:pressing/material/sheet_metal
-[18Dec2024 08:41:24.164] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.RecipesUpdatedEvent
-[18Dec2024 08:41:24.164] [Render thread/INFO] [EMI/]: [EMI] Tags synchronized, reloading EMI
-[18Dec2024 08:41:24.164] [Render thread/INFO] [EMI/]: [EMI] Starting Reload
-[18Dec2024 08:41:24.165] [Thread-22/INFO] [EMI/]: [EMI] Starting EMI reload...
-[18Dec2024 08:41:24.165] [Thread-22/INFO] [EMI/]: [EMI] Clearing data
-[18Dec2024 08:41:24.182] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.event.TagsUpdatedEvent
-[18Dec2024 08:41:24.182] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from ENABLED to JEI_STARTED
-[18Dec2024 08:41:24.183] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI...
-[18Dec2024 08:41:24.187] [Thread-22/INFO] [EMI/]: [EMI] Initializing plugin from emi
-[18Dec2024 08:41:24.192] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes...
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initialized plugin from emi in 4ms
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initializing plugin from emitrades
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initialized plugin from emitrades in 0ms
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initializing plugin from emi_loot
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initialized plugin from emi_loot in 0ms
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initializing plugin from jemi
-[18Dec2024 08:41:24.193] [Thread-22/INFO] [EMI/]: [EMI] Initialized plugin from jemi in 0ms
-[18Dec2024 08:41:24.194] [Thread-22/INFO] [EMI/]: [EMI] Processing tags
-[18Dec2024 08:41:24.200] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering item subtypes took 7.514 ms
-[18Dec2024 08:41:24.200] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes...
-[18Dec2024 08:41:24.202] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering fluid subtypes took 1.578 ms
-[18Dec2024 08:41:24.205] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients...
-[18Dec2024 08:41:24.265] [Thread-22/INFO] [EMI/]: [EMI] Constructing index
-[18Dec2024 08:41:24.271] [Thread-22/INFO] [EMI/]: [EMI] Reloading item groups on client thread...
-[18Dec2024 08:41:24.291] [Render thread/WARN] [mezz.jei.library.plugins.vanilla.ingredients.ItemStackListFactory/]: Item Group has no display items and no search tab display items. Items from this group will be missing from the JEI ingredient list. Operator Utilities
-[18Dec2024 08:41:24.324] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering ingredients: jei:minecraft took 119.3 milliseconds
-[18Dec2024 08:41:24.325] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering ingredients took 120.1 ms
-[18Dec2024 08:41:24.325] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients...
-[18Dec2024 08:41:24.326] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering extra ingredients took 464.3 μs
-[18Dec2024 08:41:24.326] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases...
-[18Dec2024 08:41:24.327] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering search ingredient aliases took 749.7 μs
-[18Dec2024 08:41:24.341] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories...
-[18Dec2024 08:41:24.357] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: jei:minecraft took 15.49 milliseconds
-[18Dec2024 08:41:24.377] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering categories: pneumaticcraft:default took 17.72 milliseconds
-[18Dec2024 08:41:24.382] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering categories took 40.09 ms
-[18Dec2024 08:41:24.382] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions...
-[18Dec2024 08:41:24.386] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering vanilla category extensions took 3.408 ms
-[18Dec2024 08:41:24.387] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts...
-[18Dec2024 08:41:24.389] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipe catalysts took 1.087 ms
-[18Dec2024 08:41:24.389] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry...
-[18Dec2024 08:41:24.401] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building recipe registry took 11.46 ms
-[18Dec2024 08:41:24.402] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins...
-[18Dec2024 08:41:24.403] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering advanced plugins took 511.1 μs
-[18Dec2024 08:41:24.404] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes...
-[18Dec2024 08:41:24.484] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: pneumaticcraft:default took 72.96 milliseconds
-[18Dec2024 08:41:24.889] [Render thread/INFO] [mezz.jei.library.load.PluginCallerTimerRunnable/]: Registering recipes: silentgear:plugin/main took 405.2 milliseconds
-[18Dec2024 08:41:24.890] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes took 486.0 ms
-[18Dec2024 08:41:24.896] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers...
-[18Dec2024 08:41:24.899] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering recipes transfer handlers took 2.847 ms
-[18Dec2024 08:41:24.902] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime...
-[18Dec2024 08:41:24.905] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers...
-[18Dec2024 08:41:24.912] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering gui handlers took 7.326 ms
-[18Dec2024 08:41:24.915] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime...
-[18Dec2024 08:41:24.918] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Registering Runtime took 2.698 ms
-[18Dec2024 08:41:24.919] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Building runtime took 15.92 ms
-[18Dec2024 08:41:24.919] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime...
-[18Dec2024 08:41:24.921] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime took 1.682 ms
-[18Dec2024 08:41:24.921] [Render thread/INFO] [mezz.jei.core.util.LoggedTimer/]: Starting JEI took 738.2 ms
-[18Dec2024 08:41:24.921] [Render thread/INFO] [EMI/]: [EMI] Recipes synchronized, waiting for tags to reload EMI...
-[18Dec2024 08:41:24.932] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Minimap updated server level id: 50328478 for world ResourceKey[minecraft:dimension / minecraft:overworld]
-[18Dec2024 08:41:24.938] [Render thread/INFO] [Jade/]: Received config from the server: 
-[18Dec2024 08:41:24.945] [Render thread/WARN] [net.minecraft.client.multiplayer.ClientPacketListener/]: Unknown custom packet identifier: walljump:network
-[18Dec2024 08:41:24.949] [Render thread/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1668 advancements
-[18Dec2024 08:41:24.955] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 192.8 μs
-[18Dec2024 08:41:24.961] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 124.0 μs
-[18Dec2024 08:41:24.968] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 136.1 μs
-[18Dec2024 08:41:24.970] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 374.9 μs
-[18Dec2024 08:41:24.971] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 501.6 μs
-[18Dec2024 08:41:24.987] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: pneumaticcraft:pneumatic_generator
-[18Dec2024 08:41:24.989] [Render thread/WARN] [patchouli/]: Invalid icon item stack: Unknown item ID: pneumaticcraft:electric_compressor
-[18Dec2024 08:41:24.993] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader: Files found in 402.9 μs
-[18Dec2024 08:41:25.048] [Render thread/INFO] [ModernFix/]: Cleared 11 unneeded book NBT tags
-[18Dec2024 08:41:25.604] [Thread-22/INFO] [EMI/]: [EMI] Reloading item groups on client thread took 1333ms
-[18Dec2024 08:41:25.626] [Thread-22/INFO] [EMI/]: [EMI] Loading plugin from emi
-[18Dec2024 08:41:25.739] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.ShaderType, which may cause instability.
-[18Dec2024 08:41:25.750] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.shader.GlProgram, which may cause instability.
-[18Dec2024 08:41:25.777] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.CloudRenderer, which may cause instability.
-[18Dec2024 08:41:25.838] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloading entity icon resources...
-[18Dec2024 08:41:25.846] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Reloaded entity icon resources!
-[18Dec2024 08:41:25.862] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.immediate.model.BakedModelEncoder, which may cause instability.
-[18Dec2024 08:41:26.149] [Thread-22/INFO] [EMI/]: [EMI] Reloaded plugin from emi in 521ms
-[18Dec2024 08:41:26.149] [Thread-22/INFO] [EMI/]: [EMI] Loading plugin from emitrades
-[18Dec2024 08:41:26.161] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.chunk.region.RenderRegion$DeviceResources, which may cause instability.
-[18Dec2024 08:41:26.242] [Thread-22/INFO] [EMI Trades/]: Reloaded.
-[18Dec2024 08:41:26.242] [Thread-22/INFO] [EMI/]: [EMI] Reloaded plugin from emitrades in 93ms
-[18Dec2024 08:41:26.242] [Thread-22/INFO] [EMI/]: [EMI] Loading plugin from emi_loot
-[18Dec2024 08:41:26.538] [Render thread/WARN] [ModernFix/]: Time from main menu to in-game was 7.1387753 seconds
-[18Dec2024 08:41:26.538] [Render thread/WARN] [ModernFix/]: Total time to load game and open world was 31.088776 seconds
-[18Dec2024 08:41:26.562] [Thread-22/INFO] [EMI/]: [EMI] Reloaded plugin from emi_loot in 320ms
-[18Dec2024 08:41:26.562] [Thread-22/INFO] [EMI/]: [EMI] Loading plugin from jemi
-[18Dec2024 08:41:26.562] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Waiting for JEI to finish reloading...
-[18Dec2024 08:41:26.562] [Thread-22/INFO] [EMI/]: [EMI] Waiting for JEI to finish...
-[18Dec2024 08:41:26.562] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] JEI reloaded!
-[18Dec2024 08:41:26.568] [Thread-22/INFO] [EMI/]: [EMI] Loading information from JEI...
-[18Dec2024 08:41:26.574] [Thread-22/INFO] [EMI/]: [EMI] Processing JEI stacks...
-[18Dec2024 08:41:26.576] [Thread-22/INFO] [EMI/]: [EMI] Processing JEI subtypes...
-[18Dec2024 08:41:26.585] [Thread-22/INFO] [EMI/]: [EMI] Processing JEI recipes...
-[18Dec2024 08:41:26.589] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Crafting
-[18Dec2024 08:41:26.589] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Crafting
-[18Dec2024 08:41:26.639] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Anvil
-[18Dec2024 08:41:26.639] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Anvil
-[18Dec2024 08:41:26.639] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Blasting
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Blasting
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Brewing
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Brewing
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Campfire Cooking
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Campfire Cooking
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Composting
-[18Dec2024 08:41:26.640] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Composting
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Fuel
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Fuel
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smelting
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Smelting
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smithing Table
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Smithing Table
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Smoking
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Smoking
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Stonecutting
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Stonecutting
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Information
-[18Dec2024 08:41:26.644] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Information
-[18Dec2024 08:41:26.772] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Amadron Tablet
-[18Dec2024 08:41:26.775] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Amadron Tablet
-[18Dec2024 08:41:26.782] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Assembly Controller
-[18Dec2024 08:41:26.782] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Assembly Controller
-[18Dec2024 08:41:26.782] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Etching Tank
-[18Dec2024 08:41:26.782] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Etching Tank
-[18Dec2024 08:41:26.783] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Explosion Crafting
-[18Dec2024 08:41:26.783] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Explosion Crafting
-[18Dec2024 08:41:26.786] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Fluid Mixer
-[18Dec2024 08:41:26.787] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Fluid Mixer
-[18Dec2024 08:41:26.788] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Heat Frame Cooling
-[18Dec2024 08:41:26.788] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Heat Frame Cooling
-[18Dec2024 08:41:26.789] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Block Heat Properties
-[18Dec2024 08:41:26.789] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Block Heat Properties
-[18Dec2024 08:41:26.790] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Memory Essence
-[18Dec2024 08:41:26.790] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Memory Essence
-[18Dec2024 08:41:26.790] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for In-world Solidifying
-[18Dec2024 08:41:26.790] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for In-world Solidifying
-[18Dec2024 08:41:26.791] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Pressure Chamber
-[18Dec2024 08:41:26.791] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Pressure Chamber
-[18Dec2024 08:41:26.793] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Refinery Controller
-[18Dec2024 08:41:26.793] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Refinery Controller
-[18Dec2024 08:41:26.794] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Spawner Extraction
-[18Dec2024 08:41:26.794] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Spawner Extraction
-[18Dec2024 08:41:26.795] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Thermopneumatic Processing Plant
-[18Dec2024 08:41:26.795] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Thermopneumatic Processing Plant
-[18Dec2024 08:41:26.796] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for UV Light Box
-[18Dec2024 08:41:26.796] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for UV Light Box
-[18Dec2024 08:41:26.796] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for In-world Yeast Production
-[18Dec2024 08:41:26.796] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for In-world Yeast Production
-[18Dec2024 08:41:26.797] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Fabric Compounding
-[18Dec2024 08:41:26.797] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Fabric Compounding
-[18Dec2024 08:41:26.800] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Gem Compounding
-[18Dec2024 08:41:26.801] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Gem Compounding
-[18Dec2024 08:41:26.805] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Metal Compounding
-[18Dec2024 08:41:26.805] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Metal Compounding
-[18Dec2024 08:41:26.811] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Gear Crafting
-[18Dec2024 08:41:26.812] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Gear Crafting
-[18Dec2024 08:41:26.962] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Grading
-[18Dec2024 08:41:26.963] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Grading
-[18Dec2024 08:41:26.964] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Salvaging
-[18Dec2024 08:41:26.965] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Salvaging
-[18Dec2024 08:41:26.967] [Thread-22/INFO] [EMI/]: [EMI] [JEMI] Collecting data for Warp Plate
-[18Dec2024 08:41:26.968] [Thread-22/INFO] [EMI/]: [EMI] Loading JEI data for Warp Plate
-[18Dec2024 08:41:26.969] [Thread-22/INFO] [EMI/]: [EMI] Reloaded plugin from jemi in 407ms
-[18Dec2024 08:41:26.969] [Thread-22/INFO] [EMI/]: [EMI] Baking index
-[18Dec2024 08:41:27.048] [Thread-22/INFO] [EMI/]: [EMI] Registering late recipes
-[18Dec2024 08:41:27.048] [Thread-22/INFO] [EMI/]: [EMI] Baking recipes
-[18Dec2024 08:41:27.432] [Thread-22/INFO] [EMI/]: [EMI] Baked 7829 recipes in 381ms
-[18Dec2024 08:41:27.459] [Thread-22/INFO] [EMI/]: [EMI] Baking search
-[18Dec2024 08:41:27.743] [Thread-24/INFO] [EMI/]: [EMI] Baked recipes after reload in 314ms
-[18Dec2024 08:41:27.873] [Thread-22/INFO] [EMI/]: [EMI] Finishing up
-[18Dec2024 08:41:27.906] [Thread-22/INFO] [EMI/]: [EMI] Reloaded EMI in 3740ms
-[18Dec2024 08:41:38.978] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus, embeddium_extra] are modifying Embeddium class me.jellysquid.mods.sodium.client.render.vertex.serializers.VertexSerializerRegistryImpl, which may cause instability.
-[18Dec2024 08:41:40.710] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
-[18Dec2024 08:41:40.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:overworld
-[18Dec2024 08:41:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:the_end
-[18Dec2024 08:41:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:the_nether
-[18Dec2024 08:41:41.390] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
-[18Dec2024 08:41:41.390] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero hud session finalized.
-[18Dec2024 08:41:41.390] [Thread-27/INFO] [EMI/]: [EMI] Clearing data
-[18Dec2024 08:41:41.390] [Render thread/INFO] [xaero.map.WorldMap/]: Finalizing world map session...
-[18Dec2024 08:41:41.432] [Thread-5/INFO] [xaero.map.WorldMap/]: World map cleaned normally!
-[18Dec2024 08:41:41.491] [Render thread/INFO] [xaero.map.WorldMap/]: World map session finalized.
-[18Dec2024 08:41:41.492] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver received class net.minecraftforge.client.event.ClientPlayerNetworkEvent$LoggingOut
-[18Dec2024 08:41:41.492] [Render thread/INFO] [mezz.jei.forge.startup.StartEventObserver/]: JEI StartEventObserver transitioning state from JEI_STARTED to DISABLED
-[18Dec2024 08:41:41.492] [Render thread/INFO] [mezz.jei.library.startup.JeiStarter/]: Stopping JEI
-[18Dec2024 08:41:41.493] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable...
-[18Dec2024 08:41:41.493] [Render thread/INFO] [mezz.jei.forge.plugins.forge.ForgeGuiPlugin/]: Stopping JEI GUI
-[18Dec2024 08:41:41.494] [Render thread/INFO] [mezz.jei.library.load.PluginCaller/]: Sending Runtime Unavailable took 1.367 ms
-[18Dec2024 08:41:41.523] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DareAnanas lost connection: Disconnected
-[18Dec2024 08:41:41.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DareAnanas left the game
-[18Dec2024 08:41:41.559] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
-[18Dec2024 08:41:41.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18Dec2024 08:41:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18Dec2024 08:41:41.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18Dec2024 08:41:41.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:overworld
-[18Dec2024 08:41:41.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:the_end
-[18Dec2024 08:41:41.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[I'm sorry but i have to]'/minecraft:the_nether
-[18Dec2024 08:41:42.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (I'm sorry but i have to): All chunks are saved
-[18Dec2024 08:41:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[18Dec2024 08:41:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[18Dec2024 08:41:42.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
-[18Dec2024 08:41:42.175] [Server thread/INFO] [Framework/]: Unloading server configs...
-[18Dec2024 08:41:42.175] [Server thread/INFO] [Framework/]: Sending config unload event for backpacked.server.toml
-[18Dec2024 08:41:42.181] [Render thread/INFO] [ChunkBuilder/]: Stopping worker threads
-[18Dec2024 08:41:46.262] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
-[18Dec2024 08:41:46.263] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
-[18Dec2024 08:41:46.263] [Thread-29/INFO] [EMI/]: [EMI] Clearing data
+[08Jan2025 11:11:23.517] [Render thread/INFO] [ModernFix/]: Invalidating pack caches
+[08Jan2025 11:11:23.518] [Render thread/INFO] [net.minecraft.server.packs.resources.ReloadableResourceManager/]: Reloading ResourceManager: vanilla, mod_resources
+[08Jan2025 11:11:23.644] [Worker-ResourceReload-3/INFO] [pneumaticcraft/]: PneumaticCraft: Repressurized is loading!
+[08Jan2025 11:11:23.689] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Starting version check at https://github.com/BumbleSoftware/Fastload/raw/Forge-1.20.1/updates.json
+[08Jan2025 11:11:23.820] [Worker-ResourceReload-2/INFO] [net.minecraft.client.gui.font.providers.UnihexProvider/]: Found unifont_all_no_pua-15.0.06.hex, loading
+[08Jan2025 11:11:24.215] [Worker-ResourceReload-0/WARN] [net.minecraft.client.renderer.texture.SpriteContents/]: Unused frames in sprite refinedstorage:block/destructor/cutouts/connected: [20, 21, 22, 23]
+[08Jan2025 11:11:24.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastload] Found status: UP_TO_DATE Current: 3.4.0 Target: null
+[08Jan2025 11:11:24.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.20.1
+[08Jan2025 11:11:24.383] [Render thread/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:unlock_tracker for minecraft:player
+[08Jan2025 11:11:24.387] [Render thread/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key backpacked:trader_pickpocketing for minecraft:wandering_trader
+[08Jan2025 11:11:24.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 12.0.0.4 Target: 12.0.0.4
+[08Jan2025 11:11:24.440] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Starting version check at https://updates.blamejared.com/get?n=controlling&gv=1.20.1
+[08Jan2025 11:11:24.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [controlling] Found status: BETA Current: 12.0.2 Target: 12.0.2
+[08Jan2025 11:11:24.481] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [charginggadgets] Starting version check at https://raw.githubusercontent.com/Direwolf20-MC/ChargingGadgets/master/update.json
+[08Jan2025 11:11:24.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [charginggadgets] Found status: BETA Current: 1.11.0 Target: null
+[08Jan2025 11:11:24.515] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Starting version check at https://raw.githubusercontent.com/TeamPneumatic/pnc-repressurized/1.20.1/release_info.json
+[08Jan2025 11:11:24.592] [Worker-ResourceReload-6/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 1/2
+[08Jan2025 11:11:24.643] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pneumaticcraft] Found status: AHEAD Current: 6.0.17+mc1.20.1 Target: null
+[08Jan2025 11:11:24.644] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[08Jan2025 11:11:24.748] [Worker-ResourceReload-0/INFO] [EMI/]: [EMI] Discovered Sodium
+[08Jan2025 11:11:24.823] [Worker-ResourceReload-5/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2
+[08Jan2025 11:11:24.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 47.3.12 Target: 47.3.22
+[08Jan2025 11:11:24.875] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Starting version check at https://raw.githubusercontent.com/SilentChaos512/SilentLib/1.20.x/update.json
+[08Jan2025 11:11:25.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentlib] Found status: BETA Current: 8.0.0 Target: null
+[08Jan2025 11:11:25.007] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Starting version check at https://raw.githubusercontent.com/SilentChaos512/Silent-Gear/1.19.x/update.json
+[08Jan2025 11:11:25.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [silentgear] Found status: BETA Current: 3.6.6 Target: null
+[08Jan2025 11:11:25.043] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultworldtype] Starting version check at https://assets.melanx.de/updates/defaultworldtype.json
+[08Jan2025 11:11:25.145] [Render thread/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2
+[08Jan2025 11:11:25.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [defaultworldtype] Found status: BETA Current: 1.20.1-4.0.4 Target: 1.20.1-4.0.4
+[08Jan2025 11:11:25.164] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Starting version check at https://updates.blamejared.com/get?n=searchables&gv=1.20.1
+[08Jan2025 11:11:25.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [searchables] Found status: BETA Current: 1.0.3 Target: 1.0.3
+[08Jan2025 11:11:25.205] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Starting version check at https://mrcrayfish.com/modupdatejson?id=backpacked
+[08Jan2025 11:11:25.251] [Worker-ResourceReload-3/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:cover#inventory' referenced from: refinedstorage:cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/cover.json
+[08Jan2025 11:11:25.252] [Worker-ResourceReload-3/WARN] [net.minecraft.client.resources.model.ModelBakery/]: Unable to load model: 'refinedstorage:hollow_cover#inventory' referenced from: refinedstorage:hollow_cover#inventory: java.io.FileNotFoundException: refinedstorage:models/item/hollow_cover.json
+[08Jan2025 11:11:25.399] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Registered player tracker system: minimap_synced
+[08Jan2025 11:11:25.399] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: World Map found!
+[08Jan2025 11:11:25.400] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: No Optifine!
+[08Jan2025 11:11:25.400] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: No Vivecraft!
+[08Jan2025 11:11:25.400] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Xaero's Minimap: Iris found!
+[08Jan2025 11:11:25.401] [Render thread/INFO] [xaero.map.WorldMap/]: Loading Xaero's World Map - Stage 2/2
+[08Jan2025 11:11:25.407] [Render thread/INFO] [xaero.map.WorldMap/]: New world map region cache hash code: 747283566
+[08Jan2025 11:11:25.409] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: map_synced
+[08Jan2025 11:11:25.415] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's WorldMap Mod: Xaero's minimap found!
+[08Jan2025 11:11:25.420] [Render thread/INFO] [xaero.map.WorldMap/]: Registered player tracker system: minimap_synced
+[08Jan2025 11:11:25.420] [Render thread/INFO] [xaero.map.WorldMap/]: No Optifine!
+[08Jan2025 11:11:25.420] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: No Vivecraft!
+[08Jan2025 11:11:25.420] [Render thread/INFO] [xaero.map.WorldMap/]: Xaero's World Map: Iris found!
+[08Jan2025 11:11:26.419] [Worker-ResourceReload-3/INFO] [pneumaticcraft/]: Sending IMC messages.
+[08Jan2025 11:11:26.514] [Worker-ResourceReload-1/INFO] [Jade/]: Start loading plugin at net.blay09.mods.waystones.compat.JadeIntegration
+[08Jan2025 11:11:26.530] [Worker-ResourceReload-1/INFO] [Jade/]: Start loading plugin at me.desht.pneumaticcraft.common.thirdparty.waila.WailaRegistration
+[08Jan2025 11:11:26.537] [Worker-ResourceReload-1/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.vanilla.VanillaPlugin
+[08Jan2025 11:11:26.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [backpacked] Found status: BETA Current: 3.0.0-beta.9 Target: 3.0.0-beta.9
+[08Jan2025 11:11:26.540] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[08Jan2025 11:11:26.563] [Worker-ResourceReload-1/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.universal.UniversalPlugin
+[08Jan2025 11:11:26.567] [Worker-ResourceReload-1/INFO] [Jade/]: Start loading plugin at snownee.jade.addon.core.CorePlugin
+[08Jan2025 11:11:26.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[08Jan2025 11:11:26.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Starting version check at https://api.modrinth.com/updates/rubidium-extra/forge_updates.json
+[08Jan2025 11:11:26.788] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:item.goat_horn.play
+[08Jan2025 11:11:26.788] [Render thread/WARN] [net.minecraft.client.sounds.SoundEngine/]: Missing sound for event: minecraft:entity.goat.screaming.horn_break
+[08Jan2025 11:11:26.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [embeddium_extra] Found status: UP_TO_DATE Current: 0.5.4.3+mc1.20.1-build.121 Target: null
+[08Jan2025 11:11:26.871] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Starting version check at https://api.lostluma.net/updates/dynamic-fps?platform=forge
+[08Jan2025 11:11:26.873] [Render thread/INFO] [com.mojang.blaze3d.audio.Library/]: OpenAL initialized on device Built-in Audio Analog Stereo
+[08Jan2025 11:11:26.874] [Render thread/INFO] [net.minecraft.client.sounds.SoundEngine/SOUNDS]: Sound engine started
+[08Jan2025 11:11:27.027] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 2048x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[08Jan2025 11:11:27.060] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/signs.png-atlas
+[08Jan2025 11:11:27.061] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[08Jan2025 11:11:27.062] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[08Jan2025 11:11:27.063] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 1024x1024x4 minecraft:textures/atlas/armor_trims.png-atlas
+[08Jan2025 11:11:27.066] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 128x64x4 minecraft:textures/atlas/decorated_pot.png-atlas
+[08Jan2025 11:11:27.067] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[08Jan2025 11:11:27.067] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[08Jan2025 11:11:27.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [dynamic_fps] Found status: OUTDATED Current: 3.7.6 Target: 3.7.7
+[08Jan2025 11:11:27.068] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[08Jan2025 11:11:27.068] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[08Jan2025 11:11:27.207] [Render thread/WARN] [net.minecraft.client.renderer.ShaderInstance/]: Shader rendertype_entity_translucent_emissive could not find sampler named Sampler2 in the specified shader program.
+[08Jan2025 11:11:27.258] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[08Jan2025 11:11:27.260] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[08Jan2025 11:11:27.261] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[08Jan2025 11:11:27.265] [Render thread/INFO] [xaero.map.WorldMap/]: Successfully reloaded the world map shaders!
+[08Jan2025 11:11:27.266] [Render thread/INFO] [net.minecraft.client.renderer.texture.TextureAtlas/]: Created: 256x256x0 jei:textures/atlas/gui.png-atlas
+[08Jan2025 11:11:27.276] [Render thread/INFO] [patchouli/]: BookContentResourceListenerLoader preloaded 293 jsons
+[08Jan2025 11:11:27.281] [Render thread/INFO] [xaero.hud.minimap.MinimapLogs/]: Successfully reloaded the minimap shaders!
+[08Jan2025 11:11:27.317] [Render thread/INFO] [Oculus/]: Creating pipeline for dimension NamespacedId{namespace='minecraft', name='overworld'}
+[08Jan2025 11:11:27.321] [Render thread/WARN] [Embeddium-MixinTaintDetector/]: Mod(s) [oculus] are modifying Embeddium class me.jellysquid.mods.sodium.client.gl.device.GLRenderDevice$ImmediateDrawCommandList, which may cause instability.
+[08Jan2025 11:11:28.150] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA_OUTDATED Current: 0.7.11 Target: 0.7.12
+[08Jan2025 11:19:08.325] [Render thread/WARN] [ModernFix/]: Game took 483.625 seconds to start
+[08Jan2025 11:19:11.050] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!
+[08Jan2025 11:19:11.050] [Render thread/INFO] [EMI/]: [EMI] Disconnecting from server, EMI data cleared
+[08Jan2025 11:19:11.052] [Thread-7/INFO] [EMI/]: [EMI] Clearing data

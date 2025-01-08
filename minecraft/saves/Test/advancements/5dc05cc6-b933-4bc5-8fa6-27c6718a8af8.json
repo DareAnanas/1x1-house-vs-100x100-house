@@ -3533,5 +3533,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-01-01 19:35:51 +0200"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
