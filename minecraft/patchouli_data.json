@@ -35,7 +35,9 @@
         "pneumaticcraft:compressors/solar_compressor",
         "pneumaticcraft:spawning/pressurized_spawner",
         "pneumaticcraft:spawning/spawner_core",
-        "pneumaticcraft:spawning/vacuum_trap"
+        "pneumaticcraft:spawning/vacuum_trap",
+        "pneumaticcraft:spawning/spawner_agitator",
+        "pneumaticcraft:spawning/spawner_extractor"
       ],
       "bookmarks": [],
       "completedManualQuests": []

@@ -16,6 +16,7 @@
       "minecraft:old_growth_pine_taiga": "2024-12-05 16:07:19 +0200",
       "minecraft:taiga": "2024-11-21 21:21:28 +0200",
       "minecraft:deep_ocean": "2024-11-30 18:12:35 +0200",
+      "minecraft:frozen_river": "2025-01-15 14:53:52 +0200",
       "minecraft:sunflower_plains": "2024-11-21 22:45:09 +0200",
       "minecraft:birch_forest": "2024-11-21 21:27:16 +0200",
       "minecraft:windswept_hills": "2024-11-30 21:09:22 +0200",
@@ -9581,9 +9582,10 @@
   },
   "silentgear:azure_silver": {
     "criteria": {
-      "get_ore": "2025-01-08 12:53:52 +0200"
+      "get_ore": "2025-01-08 12:53:52 +0200",
+      "get_ingot": "2025-01-10 21:16:06 +0200"
     },
-    "done": false
+    "done": true
   },
   "silentgear:recipes/misc/azure_silver_raw_ore_smelting": {
     "criteria": {
@@ -9726,6 +9728,174 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2025-01-08 13:28:39 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_block": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_nugget": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:06 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_block": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_repair_kit": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_nugget": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust": {
+    "criteria": {
+      "has_item": "2025-01-10 21:16:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:bow": {
+    "criteria": {
+      "get_item": "2025-01-10 21:18:27 +0200"
+    },
+    "done": true
+  },
+  "pneumaticcraft:recipes/misc/pressurized_spawner": {
+    "criteria": {
+      "has_empty_spawner": "2025-01-10 22:29:22 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-01-15 14:46:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-01-15 14:46:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-01-15 14:46:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-01-15 14:46:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-01-15 14:46:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-01-15 14:47:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-01-15 14:47:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-01-15 14:47:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-15 14:52:40 +0200"
     },
     "done": true
   },

@@ -183,24 +183,150 @@
         "id": "minecraft:pumpkin_seeds",
         "amount": 6
       }
+    },
+    {
+      "stack": "item:pneumaticcraft:spawner_core"
+    },
+    {
+      "stack": "item:pneumaticcraft:spawner_core_shell"
+    },
+    {
+      "stack": {
+        "type": "fluid",
+        "id": "pneumaticcraft:memory_essence",
+        "amount": 4000
+      }
+    },
+    {
+      "stack": "item:pneumaticcraft:vacuum_trap"
+    },
+    {
+      "stack": "item:pneumaticcraft:vacuum_pump"
+    },
+    {
+      "stack": "item:silentgear:arrow_blueprint"
+    },
+    {
+      "stack": "item:silentgear:fletching_blueprint"
+    },
+    {
+      "stack": "item:silentgear:elytra_blueprint"
+    },
+    {
+      "stack": "item:minecraft:phantom_membrane"
     }
   ],
   "lookup_history": [
-    "item:pneumaticcraft:spawner_core",
-    "item:minecraft:gunpowder",
-    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
-    "item:minecraft:elytra{Damage:0}",
-    "item:silentgear:tyrian_steel_ingot",
     "item:silentgear:azure_electrum_ingot",
-    "item:pneumaticcraft:spawner_agitator",
-    "item:pneumaticcraft:logistics_core",
+    "item:minecraft:shield{Damage:0}",
+    "item:silentgear:rod",
+    "item:silentgear:pickaxe_blueprint",
+    "item:silentgear:azure_repair_kit{Storage:{}}",
+    "item:silentgear:crimson_steel_ingot",
+    {
+      "type": "item",
+      "id": "silentgear:crimson_iron_ingot",
+      "amount": 39
+    },
+    "item:minecraft:netherite_scrap",
     "item:silentgear:crushed_shulker_shell",
-    "item:silentgear:azure_silver_ingot",
+    "item:silentgear:tyrian_steel_ingot",
+    "item:minecraft:tripwire_hook",
+    "item:minecraft:nautilus_shell",
+    "item:minecraft:heart_of_the_sea",
+    "item:minecraft:conduit",
+    "item:silentgear:fishing_rod{Damage:1,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}],RepairCost:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:fishing_reel_and_hook\",Item:{Count:1b,id:\"silentgear:fishing_reel_and_hook\",tag:{Damage:0,Materials:[{Count:2b,ID:\"silentgear:azure_electrum\",Item:{Count:1b,id:\"silentgear:azure_electrum_ingot\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:blaze_rod\",Item:{Count:1b,id:\"minecraft:air\",tag:{Damage:0}}}]}}},{ID:\"silentgear:bowstring\",Item:{Count:1b,id:\"silentgear:cord\",tag:{CraftedCount:1,Materials:[{Count:3b,ID:\"silentgear:string\",Item:{Count:1b,id:\"minecraft:string\"}}]}}}]},Properties:{HarvestTier:\"minecraft:netherite\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":0.0f,\"silentgear:charging_value\":1.4999999f,\"silentgear:durability\":629.5f,\"silentgear:enchantment_value\":9.25f,\"silentgear:magic_damage\":11.0f,\"silentgear:melee_damage\":8.4f,\"silentgear:rarity\":109.0f,\"silentgear:repair_efficiency\":1.25f},Traits:[{Level:4b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:accelerate\"},{Level:2b,Name:\"silentgear:flexible\"},{Level:1b,Name:\"silentgear:reach\"}]},Rendering:{Model:3,ModelKey:\"fishing_rod:fishing_reel_and_hook{azure_electrum,azure_electrum},rod{blaze_rod},bowstring{string,string,string},\"}},SGear_UUID:[I;-1892798435,1581272810,-1592960985,1888740181]}",
+    "item:silentgear:cord_blueprint",
+    "item:silentgear:fishing_rod_blueprint",
+    "item:silentgear:elytra_blueprint",
+    "item:minecraft:elytra{Damage:0}",
+    "item:pneumaticcraft:pressurized_spawner",
+    "item:pneumaticcraft:empty_spawner",
+    "item:pneumaticcraft:pressure_tube",
+    "item:pneumaticcraft:spawner_extractor",
+    "item:pneumaticcraft:drill_pipe",
+    "item:pneumaticcraft:spawner_core{\"pneumaticcraft:SpawnerCoreStats\":{\"minecraft:creeper\":100}}",
+    "item:silentgear:arrow{Damage:192,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:arrow_heads\",Item:{Count:1b,id:\"silentgear:arrow_heads\",tag:{Damage:0,Materials:[{ID:\"silentgear:azure_silver\",Item:{Count:1b,id:\"silentgear:azure_silver_ingot\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}},{ID:\"silentgear:fletching\",Item:{Count:1b,id:\"silentgear:fletching\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:feather\",Item:{Count:1b,id:\"minecraft:feather\"}}]}}}]},Properties:{HarvestTier:\"minecraft:diamond\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:charging_value\":1.4f,\"silentgear:durability\":197.0f,\"silentgear:enchantment_value\":29.0f,\"silentgear:harvest_speed\":19.0f,\"silentgear:magic_damage\":7.0f,\"silentgear:projectile_accuracy\":1.1f,\"silentgear:projectile_speed\":1.0757359f,\"silentgear:ranged_damage\":2.0f,\"silentgear:rarity\":83.0f,\"silentgear:repair_efficiency\":0.75f},Traits:[{Level:3b,Name:\"silentgear:malleable\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"arrow:arrow_heads{azure_silver},rod{wood},fletching{feather},\"}},SGear_UUID:[I;1871519661,1084574153,-1767159469,1933868174]}",
+    "item:silentgear:arrow_blueprint",
+    "item:silentgear:fletching_blueprint",
+    "item:silentgear:blueprint_paper",
+    "item:silentgear:cord",
+    "item:silentgear:bow_limbs{CraftedCount:1,Damage:0,Materials:[{Count:3b,ID:\"silentgear:azure_electrum\",Item:{Count:1b,id:\"silentgear:azure_electrum_ingot\"}}]}",
+    "item:silentgear:bow_blueprint",
+    {
+      "type": "item",
+      "id": "silentgear:azure_silver_ingot",
+      "amount": 39
+    },
+    "item:minecraft:blast_furnace",
     {
       "type": "item",
       "id": "silentgear:raw_azure_silver",
       "amount": 64
     },
+    "item:silentgear:azure_electrum_dust",
+    "item:minecraft:bow{Damage:0}",
+    "item:pneumaticcraft:safety_tube_module",
+    "item:pneumaticcraft:pressure_gauge",
+    "item:minecraft:lever",
+    "item:pneumaticcraft:reinforced_pressure_tube",
+    "item:pneumaticcraft:vacuum_pump",
+    "item:pneumaticcraft:turbine_rotor",
+    "item:pneumaticcraft:vacuum_trap",
+    "item:minecraft:ender_eye",
+    "item:minecraft:iron_trapdoor",
+    "item:pneumaticcraft:reinforced_stone_slab",
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:plastic",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:lpg",
+      "amount": 80
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:gasoline",
+      "amount": 100
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:kerosene",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:yeast_culture",
+      "amount": 100
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:ethanol",
+      "amount": 25
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:biodiesel",
+      "amount": 1000
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:lubricant",
+      "amount": 0
+    },
+    {
+      "type": "fluid",
+      "id": "pneumaticcraft:memory_essence",
+      "amount": 4000
+    },
+    "item:pneumaticcraft:memory_stick{AbsorbXPOrbs:0b,BlockEntityTag:{SavedTanks:{Tank:{Amount:324240,FluidName:\"pneumaticcraft:memory_essence\"}}}}",
+    "item:pneumaticcraft:spawner_core_shell",
+    "item:minecraft:gunpowder",
+    "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
+    "item:pneumaticcraft:spawner_agitator",
+    "item:pneumaticcraft:logistics_core",
     "item:silentgear:coating_smithing_template",
     "item:minecraft:netherite_ingot",
     "item:silentgear:pickaxe{Damage:12,Enchantments:[{id:\"minecraft:efficiency\",lvl:5s},{id:\"minecraft:fortune\",lvl:3s}],RepairCost:7,SGear_Data:{Construction:{BrokenCount:1,Parts:[{ID:\"silentgear:pickaxe_head\",Item:{Count:1b,id:\"silentgear:pickaxe_head\",tag:{Damage:0,Materials:[{Count:3b,ID:\"silentgear:compressed_iron\",Item:{Count:1b,id:\"pneumaticcraft:ingot_iron_compressed\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}}],RepairCount:14},Properties:{HarvestTier:\"minecraft:diamond\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-3.0f,\"silentgear:charging_value\":0.8f,\"silentgear:durability\":1024.0f,\"silentgear:enchantment_value\":12.0f,\"silentgear:harvest_speed\":8.999999f,\"silentgear:magic_damage\":1.0f,\"silentgear:melee_damage\":5.0f,\"silentgear:rarity\":40.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:2b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:hard\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"pickaxe:pickaxe_head{compressed_iron,compressed_iron,compressed_iron},rod{wood},\"}},SGear_UUID:[I;1922876399,1638747634,-2041959101,-824414547]}",
@@ -255,8 +381,6 @@
       "id": "pneumaticcraft:heat_sink",
       "amount": 2
     },
-    "item:pneumaticcraft:safety_tube_module",
-    "item:pneumaticcraft:pressure_gauge",
     "item:pneumaticcraft:volume_upgrade",
     "item:pneumaticcraft:air_canister",
     "#item:pneumaticcraft:upgrade_components",
@@ -319,7 +443,6 @@
     "item:minecraft:feather",
     "item:minecraft:brush{Damage:0}",
     "item:minecraft:sculk",
-    "item:silentgear:crimson_steel_ingot",
     "item:silentgear:crimson_repair_kit",
     "item:silentgear:sturdy_repair_kit",
     "item:refinedstorage:64k_storage_disk",
@@ -370,9 +493,7 @@
     "item:refinedstorage:1k_storage_part",
     "item:minecraft:iron_ingot",
     "item:minecraft:iron_block",
-    "item:minecraft:lever",
     "item:pneumaticcraft:pressure_chamber_wall",
-    "item:pneumaticcraft:vacuum_pump",
     "item:minecraft:iron_boots{Damage:149,Enchantments:[{id:\"minecraft:feather_falling\",lvl:3s}]}",
     "item:pneumaticcraft:pressure_chamber_interface",
     "item:pneumaticcraft:pressure_chamber_glass",
@@ -380,12 +501,6 @@
       "type": "item",
       "id": "minecraft:bucket",
       "amount": 2
-    },
-    "item:pneumaticcraft:pressure_tube",
-    {
-      "type": "item",
-      "id": "pneumaticcraft:turbine_rotor",
-      "amount": 3
     },
     {
       "type": "item",
@@ -445,7 +560,6 @@
       "id": "silentgear:raw_crimson_iron",
       "amount": 62
     },
-    "item:silentgear:crimson_iron_ingot",
     "item:silentgear:metal_press",
     "item:silentgear:recrystallizer",
     "item:silentgear:advanced_upgrade_base",
@@ -471,7 +585,6 @@
     },
     "item:minecraft:trident{Damage:0}",
     "item:minecraft:blue_dye",
-    "item:silentgear:blueprint_paper",
     "item:silentgear:trident_blueprint",
     {
       "type": "item",
@@ -480,7 +593,6 @@
     },
     "item:silentgear:blueprint_book{Inventory:{}}",
     "item:silentgear:template_board",
-    "item:silentgear:elytra_blueprint",
     "item:silentgear:sheet_metal{}",
     "item:silentgear:mixed_fabric{}",
     "item:silentgear:chestplate_blueprint",
@@ -496,11 +608,6 @@
     },
     "item:minecraft:wheat",
     "item:pneumaticcraft:gasoline_bucket",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:gasoline",
-      "amount": 1000
-    },
     "item:beo:osmium_ingot",
     "item:minecraft:compass",
     {
@@ -529,12 +636,6 @@
     "item:minecraft:golden_apple",
     "item:minecraft:magma_cream",
     "item:pneumaticcraft:display_table",
-    "item:pneumaticcraft:memory_stick",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:memory_essence",
-      "amount": 1000
-    },
     "item:waystones:bound_scroll",
     "item:silentgear:upgrade_base",
     "item:silentgear:wide_plate_upgrade",
@@ -593,7 +694,6 @@
       "id": "pneumaticcraft:printed_circuit_board",
       "amount": 4
     },
-    "item:silentgear:rod",
     "item:silentgear:fletching",
     "item:pneumaticcraft:etching_tank",
     "item:pneumaticcraft:reinforced_brick_slab",
@@ -640,14 +740,8 @@
       "amount": 7
     },
     "item:silentgear:tyrian_steel_dust",
-    "item:minecraft:heart_of_the_sea",
     "item:pneumaticcraft:glycerol",
     "item:pneumaticcraft:lubricant_bucket",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:lubricant",
-      "amount": 0
-    },
     {
       "type": "fluid",
       "id": "pneumaticcraft:diesel",
@@ -663,24 +757,13 @@
     "item:pneumaticcraft:amadron_tablet",
     "item:silentgear:fluffy_feather",
     "item:pneumaticcraft:plastic_bucket",
-    "item:silentgear:azure_repair_kit{Storage:{}}",
     "item:silentgear:very_crude_repair_kit{Storage:{}}",
     "item:silentgear:katana{Damage:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:katana_blade\",Item:{Count:1b,id:\"silentgear:katana_blade\",tag:{CraftedCount:1,Damage:0,Materials:[{Count:3b,ID:\"silentgear:compressed_iron\",Item:{Count:1b,id:\"pneumaticcraft:ingot_iron_compressed\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}}]},Properties:{HarvestTier:\"minecraft:diamond\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-2.8f,\"silentgear:charging_value\":0.8f,\"silentgear:durability\":1152.0f,\"silentgear:enchantment_value\":10.8f,\"silentgear:harvest_speed\":8.999999f,\"silentgear:magic_damage\":1.0f,\"silentgear:melee_damage\":8.0f,\"silentgear:rarity\":40.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:2b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:hard\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"katana:katana_blade{compressed_iron,compressed_iron,compressed_iron},rod{wood},\"}},SGear_UUID:[I;264481086,-1304148511,-1232542760,-796192727]}",
     "item:silentgear:katana_blueprint",
     "item:silentgear:sword_blueprint",
     "item:silentgear:machete_blueprint",
     "item:pneumaticcraft:gps_area_tool",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:yeast_culture",
-      "amount": 100
-    },
     "item:minecraft:poisonous_potato",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:ethanol",
-      "amount": 1000
-    },
     "item:pneumaticcraft:ethanol_bucket",
     "item:waystones:return_scroll",
     "item:silentgear:sinew",
@@ -690,7 +773,6 @@
     "item:pneumaticcraft:thermostat_module",
     "item:pneumaticcraft:thermopneumatic_processing_plant",
     "item:minecraft:bell",
-    "item:minecraft:ender_eye",
     "item:minecraft:ender_pearl",
     "item:pneumaticcraft:heat_pipe",
     "item:pneumaticcraft:pneumatic_wrench",
@@ -732,11 +814,6 @@
       "amount": 4
     },
     "item:minecraft:quartz",
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:plastic",
-      "amount": 1000
-    },
     "item:pneumaticcraft:minigun",
     "item:pneumaticcraft:gun_ammo_freezing{Damage:0,Enchantments:[{id:\"minecraft:vanishing_curse\",lvl:1s}]}",
     "item:pneumaticcraft:refinery_output",
@@ -775,14 +852,11 @@
       "id": "minecraft:polished_deepslate",
       "amount": 4
     },
-    "item:minecraft:bow{Damage:0}",
     "item:minecraft:iron_chestplate{Damage:2}",
-    "item:minecraft:blast_furnace",
     "item:minecraft:diamond_leggings{Damage:0}",
     "item:minecraft:diamond_helmet{Damage:0}",
     "item:minecraft:book",
     "item:pneumaticcraft:reinforced_brick_tile",
-    "item:pneumaticcraft:reinforced_stone_slab",
     {
       "type": "fluid",
       "id": "pneumaticcraft:oil",
@@ -790,18 +864,8 @@
     },
     {
       "type": "fluid",
-      "id": "pneumaticcraft:lpg",
-      "amount": 100
-    },
-    {
-      "type": "fluid",
       "id": "pneumaticcraft:vegetable_oil",
       "amount": 25
-    },
-    {
-      "type": "fluid",
-      "id": "pneumaticcraft:biodiesel",
-      "amount": 100
     },
     "item:pneumaticcraft:failed_pcb",
     "item:minecraft:copper_ingot",
@@ -867,7 +931,6 @@
     },
     "item:silentgear:netherwood_charcoal_block",
     "item:minecraft:ancient_debris",
-    "item:minecraft:netherite_scrap",
     {
       "type": "item",
       "id": "minecraft:coal",
@@ -878,7 +941,6 @@
     "item:silentgear:bort_ore",
     "item:silentgear:jeweler_tools",
     "item:minecraft:iron_nugget",
-    "item:silentgear:pickaxe_blueprint",
     "item:silentgear:tip_blueprint",
     "item:refinedstorage:1k_storage_block",
     "item:minecraft:jungle_button",
@@ -889,10 +951,44 @@
     "item:minecraft:waxed_exposed_cut_copper"
   ],
   "craft_history": [
+    "minecraft:shield",
+    "minecraft:paper",
+    "silentgear:gear/fishing_rod_quick",
+    "silentgear:part/cord",
+    "silentgear:fishing_rod_blueprint",
+    "pneumaticcraft:pressurized_spawner",
+    "pneumaticcraft:pressure_tube",
+    "pneumaticcraft:spawner_extractor",
+    "pneumaticcraft:drill_pipe",
+    "silentgear:gear/arrow_quick",
+    "silentgear:part/fletching",
+    "minecraft:stick",
+    "silentgear:fletching_blueprint",
+    "silentgear:blueprint_paper",
+    "minecraft:blue_dye",
+    "silentgear:arrow_blueprint",
+    "silentgear:gear/bow",
+    "silentgear:cord_blueprint",
+    "silentgear:gear/bow_main",
+    "silentgear:azure_electrum_ingot",
+    "minecraft:blast_furnace",
+    "silentgear:bow_blueprint",
+    "minecraft:bow",
+    "minecraft:redstone_torch",
+    "minecraft:lever",
+    "minecraft:oak_planks",
+    "pneumaticcraft:safety_tube_module",
+    "pneumaticcraft:pressure_gauge",
+    "pneumaticcraft:vacuum_pump",
+    "pneumaticcraft:turbine_rotor",
+    "pneumaticcraft:vacuum_trap",
+    "minecraft:ender_eye",
+    "minecraft:iron_trapdoor",
+    "pneumaticcraft:reinforced_stone_slab",
+    "pneumaticcraft:spawner_core_shell",
     "minecraft:shulker_box",
     "minecraft:chest",
     "minecraft:crafting_table",
-    "minecraft:oak_planks",
     "minecraft:oak_button",
     "silentgear:coating_smithing_template",
     "minecraft:smithing_table",
@@ -918,14 +1014,10 @@
     "pneumaticcraft:compressed_brick_tile",
     "minecraft:polished_diorite",
     "pneumaticcraft:heat_sink",
-    "pneumaticcraft:safety_tube_module",
-    "pneumaticcraft:pressure_gauge",
-    "minecraft:lever",
     "pneumaticcraft:volume_upgrade",
     "pneumaticcraft:air_canister",
     "pneumaticcraft:speed_upgrade",
     "minecraft:sugar_from_sugar_cane",
-    "minecraft:stick",
     "pneumaticcraft:liquid_hopper",
     "minecraft:hopper",
     "pneumaticcraft:pneumatic_dynamo",
@@ -960,9 +1052,7 @@
     "pneumaticcraft:pressure_chamber_wall",
     "pneumaticcraft:reinforced_bricks",
     "pneumaticcraft:reinforced_stone",
-    "pneumaticcraft:vacuum_pump",
     "refinedstorage:1k_storage_part",
-    "pneumaticcraft:turbine_rotor",
     "minecraft:gold_ingot_from_gold_block",
     "refinedstorage:disk_drive",
     "refinedstorage:machine_casing",
@@ -993,9 +1083,6 @@
     "silentgear:gear/katana_quick",
     "silentgear:boots_blueprint",
     "silentgear:helmet_blueprint",
-    "silentgear:blueprint_paper",
-    "minecraft:paper",
-    "minecraft:blue_dye",
     "silentgear:blueprint_book",
     "silentgear:template_board",
     "silentgear:chestplate_blueprint",
@@ -1007,12 +1094,10 @@
     "minecraft:oak_slab",
     "pneumaticcraft:liquid_compressor",
     "pneumaticcraft:air_compressor",
-    "pneumaticcraft:pressure_tube",
     "pneumaticcraft:small_tank",
     "minecraft:iron_bars",
     "minecraft:netherite_upgrade_smithing_template",
     "pneumaticcraft:display_table",
-    "pneumaticcraft:reinforced_stone_slab",
     "pneumaticcraft:memory_stick",
     "minecraft:birch_boat",
     "minecraft:white_bed",
@@ -1021,7 +1106,6 @@
     "waystones:bound_scroll",
     "silentgear:gear/hammer",
     "silentgear:gear/hammer_head",
-    "minecraft:shield",
     "silentgear:blaze_gold_ingot_from_nugget",
     "silentgear:hammer_blueprint",
     "silentgear:blue_dye_from_flax_flowers",
@@ -1045,7 +1129,6 @@
     "minecraft:oak_door",
     "minecraft:oak_trapdoor",
     "pneumaticcraft:printed_circuit_board",
-    "minecraft:redstone_torch",
     "minecraft:gold_nugget",
     "pneumaticcraft:assembly_controller",
     "pneumaticcraft:assembly_laser",
@@ -1096,14 +1179,12 @@
     "minecraft:painting",
     "minecraft:polished_deepslate_stairs",
     "minecraft:polished_deepslate",
-    "minecraft:blast_furnace",
     "silentgear:gear/convert/stone_pickaxe",
     "minecraft:anvil",
     "minecraft:iron_sword",
     "silentgear:gear/shovel_quick",
     "silentgear:gear/axe_quick",
     "silentgear:gear/pickaxe_quick",
-    "minecraft:bow",
     "minecraft:spruce_planks",
     "pneumaticcraft:refinery",
     "minecraft:spruce_sign",

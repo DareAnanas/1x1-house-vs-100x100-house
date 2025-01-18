@@ -1,6 +1,7 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
+waypoint:gui.xaero_deathpoint:D:2320:-280:-1122:0:false:1:gui.xaero_default:false:0:1:true
 waypoint:Ruins:R:1194:121:-2032:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:Skeleton spawner 1:S:1497:130:-618:7:false:0:gui.xaero_default:false:0:0:false
 waypoint:Diamond 1:D:2408:-36:-985:3:false:0:gui.xaero_default:false:0:0:false
