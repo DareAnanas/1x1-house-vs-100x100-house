@@ -21,3 +21,4 @@ waypoint:Jarmeeure:J:801:162:-3098:4:false:0:gui.xaero_default:false:0:0:false
 waypoint:Krmiritron:K:1742:236:-1886:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Crycresder:C:1526:155:-587:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lukredzur:L:766:219:-2786:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zedmurzur:Z:2402:207:-2110:12:false:0:gui.xaero_default:false:0:0:false

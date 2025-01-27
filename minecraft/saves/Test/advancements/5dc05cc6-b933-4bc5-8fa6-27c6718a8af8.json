@@ -3539,21 +3539,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/kill_all_mobs": {
+  "pneumaticcraft:recipes/misc/pressurized_spawner": {
     "criteria": {
-      "minecraft:zombie": "2025-01-08 16:13:25 +0200"
+      "has_empty_spawner": "2025-01-08 15:58:31 +0200"
     },
-    "done": false
+    "done": true
   },
   "pneumaticcraft:recipes/misc/spawner_extractor": {
     "criteria": {
       "has_spawner_agitator": "2025-01-08 15:59:06 +0200"
-    },
-    "done": true
-  },
-  "pneumaticcraft:biodiesel": {
-    "criteria": {
-      "0": "2025-01-08 16:02:28 +0200"
     },
     "done": true
   },
@@ -3563,21 +3557,363 @@
     },
     "done": true
   },
+  "pneumaticcraft:biodiesel": {
+    "criteria": {
+      "0": "2025-01-08 16:02:28 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:zombie": "2025-01-08 16:13:25 +0200"
+    },
+    "done": false
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-01-08 16:13:25 +0200"
     },
     "done": true
   },
-  "pneumaticcraft:recipes/misc/pressurized_spawner": {
-    "criteria": {
-      "has_empty_spawner": "2025-01-08 15:58:31 +0200"
-    },
-    "done": true
-  },
   "minecraft:adventure/kill_a_mob": {
     "criteria": {
       "minecraft:zombie": "2025-01-08 16:13:25 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_block": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_nugget": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_dust": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/tyrian_steel_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-19 16:30:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-19 16:31:53 +0200"
+    },
+    "done": true
+  },
+  "silentgear:armor": {
+    "criteria": {
+      "helmet": "2025-01-19 16:32:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:end/levitate": {
+    "criteria": {
+      "levitated": "2025-01-19 16:33:43 +0200"
+    },
+    "done": true
+  },
+  "silentgear:big_job_tools": {
+    "criteria": {
+      "excavator": "2025-01-19 16:37:19 +0200"
+    },
+    "done": false
+  },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-01-19 16:41:20 +0200"
+    },
+    "done": true
+  },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-01-19 16:43:03 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-01-19 16:43:03 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-01-19 16:43:03 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_block": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_repair_kit": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_nugget": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_electrum": {
+    "criteria": {
+      "get_ingot": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_dust": {
+    "criteria": {
+      "has_item": "2025-01-19 16:52:15 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-19 21:58:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:bow": {
+    "criteria": {
+      "get_item": "2025-01-20 12:39:10 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_electrum_ingot": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust_blasting": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_ingot_from_block": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_ingot_from_nugget": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_block": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:azure_silver": {
+    "criteria": {
+      "get_ingot": "2025-01-20 12:39:48 +0200"
+    },
+    "done": false
+  },
+  "silentgear:recipes/misc/azure_silver_nugget": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/azure_silver_dust_smelting": {
+    "criteria": {
+      "has_item": "2025-01-20 12:39:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-20 12:40:05 +0200"
+    },
+    "done": true
+  },
+  "silentgear:repair_kit": {
+    "criteria": {
+      "crimson_repair_kit": "2025-01-20 12:40:48 +0200"
+    },
+    "done": true
+  },
+  "silentgear:crimson_repair_kit": {
+    "criteria": {
+      "get_item": "2025-01-20 12:40:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-01-20 12:41:17 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-20 12:41:27 +0200"
+    },
+    "done": true
+  },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-22 22:16:47 +0200"
+    },
+    "done": true
+  },
+  "paraglider:statues_bargain": {
+    "criteria": {
+      "bargain": "2025-01-22 22:17:20 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/rito_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-22 22:16:38 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/kakariko_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-22 22:16:38 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-22 22:16:38 +0200"
+    },
+    "done": true
+  },
+  "paraglider:recipes/misc/cosmetic/goron_goddess_statue": {
+    "criteria": {
+      "has_goddess_statue": "2025-01-22 22:16:38 +0200"
     },
     "done": true
   },
