@@ -22,3 +22,14 @@ waypoint:Krmiritron:K:1742:236:-1886:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Crycresder:C:1526:155:-587:14:false:0:gui.xaero_default:false:0:0:false
 waypoint:Lukredzur:L:766:219:-2786:10:false:0:gui.xaero_default:false:0:0:false
 waypoint:Zedmurzur:Z:2402:207:-2110:12:false:0:gui.xaero_default:false:0:0:false
+waypoint:Brecresark:B:206:180:-3442:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mjolzoirmur:M:-434:235:-5758:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mjolzermed:M:-441:205:-6213:5:false:0:gui.xaero_default:false:0:0:false
+waypoint:Zurzoirark:Z:-532:262:-6364:7:false:0:gui.xaero_default:false:0:0:false
+waypoint:Mrokirtron:M:-542:253:-6910:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Marreded:M:-1138:-12:-10002:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cryarkzur:C:-1330:-13:-10594:10:false:0:gui.xaero_default:false:0:0:false
+waypoint:Crycrescred:C:-1341:114:-10705:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Cruzerarc:C:-1266:231:-11294:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Drakcraed:D:-1374:189:-11281:14:false:0:gui.xaero_default:false:0:0:false
+waypoint:Crumaraczur:C:787:-13:-1181:10:false:0:gui.xaero_default:false:0:0:false
