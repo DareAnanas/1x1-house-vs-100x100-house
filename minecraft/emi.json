@@ -2,9 +2,56 @@
   "favorites": [
     {
       "stack": "item:minecraft:nether_wart"
+    },
+    {
+      "stack": "item:minecraft:terracotta"
+    },
+    {
+      "stack": "item:minecraft:cyan_dye"
+    },
+    {
+      "stack": "item:minecraft:blue_dye"
+    },
+    {
+      "stack": "item:minecraft:orange_dye"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:glass_pane",
+        "amount": 34
+      }
     }
   ],
   "lookup_history": [
+    "item:minecraft:lily_pad",
+    "item:minecraft:acacia_door",
+    "item:minecraft:cyan_dye",
+    "item:pneumaticcraft:compressed_brick_wall",
+    "item:minecraft:orange_dye",
+    "item:minecraft:green_dye",
+    "item:minecraft:cyan_terracotta",
+    "item:minecraft:oak_planks",
+    "item:pneumaticcraft:electrostatic_compressor",
+    "item:silentgear:azure_electrum_ingot",
+    "item:minecraft:clay",
+    "item:minecraft:terracotta",
+    {
+      "type": "item",
+      "id": "minecraft:orange_terracotta",
+      "amount": 60
+    },
+    "item:minecraft:red_sandstone",
+    "item:minecraft:smooth_red_sandstone",
+    "item:pneumaticcraft:reinforced_pressure_tube",
+    {
+      "type": "item",
+      "id": "netherite_ore_remined:raw_netherite",
+      "amount": 7
+    },
+    "item:silentgear:golden_nether_banana",
+    "item:minecraft:gilded_blackstone",
+    "item:minecraft:lodestone",
     "item:pneumaticcraft:aerial_interface",
     "item:minecraft:splash_potion{Potion:\"minecraft:strong_healing\"}",
     "item:minecraft:splash_potion{Potion:\"minecraft:healing\"}",
@@ -73,8 +120,6 @@
     "item:minecraft:oak_fence_gate",
     "#item:minecraft:bamboo_blocks",
     "item:minecraft:bamboo_planks",
-    "item:minecraft:clay",
-    "item:minecraft:terracotta",
     {
       "type": "item",
       "id": "minecraft:yellow_terracotta",
@@ -126,7 +171,6 @@
       "id": "netherite_ore_remined:netherite_plate",
       "amount": 4
     },
-    "item:netherite_ore_remined:raw_netherite",
     {
       "type": "item",
       "id": "netherite_ore_remined:netherite_fragment",
@@ -138,7 +182,6 @@
     "item:minecraft:netherite_scrap",
     "item:minecraft:ancient_debris",
     "item:silentgear:nether_banana",
-    "item:minecraft:lodestone",
     {
       "type": "item",
       "id": "silentgear:blaze_gold_nugget",
@@ -152,7 +195,6 @@
     },
     "item:silentgear:rod_blueprint",
     "item:silentgear:azure_repair_kit",
-    "item:silentgear:azure_electrum_ingot",
     "item:minecraft:anvil",
     "item:silentgear:tip_blueprint",
     "item:silentgear:coating_blueprint",
@@ -255,7 +297,6 @@
     },
     "item:silentgear:azure_electrum_dust",
     "item:minecraft:bow{Damage:0}",
-    "item:pneumaticcraft:reinforced_pressure_tube",
     "item:pneumaticcraft:vacuum_pump",
     "item:pneumaticcraft:turbine_rotor",
     "item:pneumaticcraft:vacuum_trap",
@@ -374,7 +415,6 @@
     "item:pneumaticcraft:liquid_hopper",
     "item:pneumaticcraft:pneumatic_dynamo",
     "item:minecraft:barrel",
-    "item:minecraft:orange_dye",
     "item:minecraft:orange_stained_glass_pane",
     {
       "type": "item",
@@ -430,11 +470,6 @@
     {
       "type": "item",
       "id": "pneumaticcraft:liquid_compressor",
-      "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "minecraft:green_dye",
       "amount": 4
     },
     "item:refinedstorage:4k_storage_part",
@@ -560,11 +595,6 @@
       "type": "item",
       "id": "minecraft:chain",
       "amount": 9
-    },
-    {
-      "type": "item",
-      "id": "minecraft:gilded_blackstone",
-      "amount": 8
     },
     "item:minecraft:golden_apple",
     "item:minecraft:magma_cream",
@@ -795,11 +825,6 @@
       "id": "minecraft:red_sand",
       "amount": 64
     },
-    {
-      "type": "item",
-      "id": "minecraft:red_sandstone",
-      "amount": 5
-    },
     "item:minecraft:cooked_rabbit",
     {
       "type": "item",
@@ -851,10 +876,43 @@
     "item:minecraft:waxed_exposed_cut_copper"
   ],
   "craft_history": [
+    "minecraft:golden_carrot",
+    "minecraft:gold_nugget",
+    "minecraft:gold_ingot_from_gold_block",
+    "minecraft:firework_rocket",
+    "minecraft:polished_granite",
+    "minecraft:acacia_door",
+    "minecraft:acacia_planks",
+    "pneumaticcraft:compressed_brick_wall",
+    "minecraft:oak_fence_gate",
+    "minecraft:stick",
+    "minecraft:oak_fence",
+    "minecraft:spruce_fence_gate",
+    "minecraft:spruce_fence",
+    "minecraft:cyan_terracotta",
+    "minecraft:cyan_dye",
+    "minecraft:orange_stained_glass_pane_from_glass_pane",
+    "minecraft:orange_dye_from_red_yellow",
+    "minecraft:red_dye_from_poppy",
+    "minecraft:yellow_dye_from_dandelion",
+    "minecraft:oak_stairs",
+    "minecraft:red_sandstone",
+    "minecraft:green_dye",
+    "minecraft:barrel",
+    "minecraft:oak_slab",
+    "minecraft:oak_planks",
+    "minecraft:oak_sign",
+    "silentgear:part/grip",
+    "silentgear:part/binding",
+    "silentgear:gear/axe_quick",
+    "silentgear:azure_electrum_ingot",
+    "minecraft:orange_terracotta",
+    "minecraft:orange_dye_from_orange_tulip",
+    "netherite_ore_remined:pure_netherite",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:glass_pane",
     "minecraft:glistering_melon_slice",
     "minecraft:blaze_powder",
-    "minecraft:golden_carrot",
-    "minecraft:glass_pane",
     "minecraft:polished_diorite_stairs",
     "minecraft:diamond_hoe",
     "silentgear:crimson_iron_ingot_from_block",
@@ -864,14 +922,11 @@
     "minecraft:birch_planks",
     "minecraft:polished_diorite",
     "minecraft:paper",
-    "minecraft:firework_rocket",
     "pneumaticcraft:small_tank",
     "minecraft:lever",
     "pneumaticcraft:safety_tube_module",
     "pneumaticcraft:pressure_gauge",
     "minecraft:torch",
-    "minecraft:stick",
-    "minecraft:oak_planks",
     "minecraft:polished_blackstone_brick_stairs",
     "minecraft:diorite_slab",
     "charginggadgets:charging_station",
@@ -884,8 +939,6 @@
     "minecraft:yellow_terracotta",
     "minecraft:clay",
     "minecraft:dye_red_wool",
-    "minecraft:red_dye_from_poppy",
-    "minecraft:yellow_dye_from_dandelion",
     "minecraft:yellow_dye_from_sunflower",
     "minecraft:red_concrete_powder",
     "minecraft:red_dye_from_rose_bush",
@@ -896,9 +949,7 @@
     "minecraft:compass",
     "netherite_ore_remined:netherite",
     "silentgear:gear/elytra",
-    "silentgear:part/binding",
     "silentgear:gear/elytra_wings",
-    "netherite_ore_remined:pure_netherite",
     "silentgear:crushed_shulker_shell",
     "minecraft:iron_hoe",
     "minecraft:crimson_planks",
@@ -906,22 +957,15 @@
     "minecraft:anvil",
     "minecraft:iron_block",
     "silentgear:part/grip2",
-    "silentgear:part/grip",
     "silentgear:gear/katana_quick",
-    "silentgear:azure_electrum_ingot",
     "silentgear:tip_blueprint",
     "silentgear:blueprint_paper",
     "silentgear:binding_blueprint_alt",
     "silentgear:coating_blueprint",
     "silentgear:grip_blueprint",
     "silentgear:grip_blueprint_alt",
-    "minecraft:gold_ingot_from_gold_block",
     "silentgear:gear/shield",
-    "minecraft:gold_nugget",
     "minecraft:oak_door",
-    "minecraft:oak_fence_gate",
-    "minecraft:oak_slab",
-    "minecraft:oak_fence",
     "silentgear:gear/arrow_quick",
     "silentgear:part/fletching",
     "silentgear:gear/bow",
@@ -1006,12 +1050,7 @@
     "pneumaticcraft:liquid_hopper",
     "pneumaticcraft:pneumatic_dynamo",
     "minecraft:acacia_sign",
-    "minecraft:acacia_planks",
     "minecraft:acacia_trapdoor",
-    "minecraft:acacia_door",
-    "minecraft:barrel",
-    "minecraft:orange_stained_glass_pane_from_glass_pane",
-    "minecraft:orange_dye_from_orange_tulip",
     "minecraft:brush",
     "silentgear:crimson_repair_kit",
     "refinedstorage:64k_storage_disk",
@@ -1082,7 +1121,6 @@
     "minecraft:dark_oak_door",
     "minecraft:dark_oak_trapdoor",
     "pneumaticcraft:compressed_brick_stairs",
-    "pneumaticcraft:compressed_brick_wall",
     "minecraft:diorite_stairs",
     "minecraft:oak_trapdoor",
     "pneumaticcraft:printed_circuit_board",
@@ -1135,7 +1173,6 @@
     "silentgear:gear/convert/stone_pickaxe",
     "minecraft:iron_sword",
     "silentgear:gear/shovel_quick",
-    "silentgear:gear/axe_quick",
     "minecraft:spruce_planks",
     "pneumaticcraft:refinery",
     "minecraft:spruce_sign",
@@ -1149,14 +1186,12 @@
     "minecraft:stone_axe",
     "minecraft:stone_shovel",
     "minecraft:red_sandstone_stairs",
-    "minecraft:red_sandstone",
     "minecraft:stone_brick_wall",
     "minecraft:cherry_door",
     "minecraft:cherry_planks",
     "minecraft:light_gray_concrete_powder",
     "minecraft:light_gray_dye_from_oxeye_daisy",
     "minecraft:iron_shovel",
-    "minecraft:oak_stairs",
     "minecraft:stone_stairs",
     "minecraft:flint_and_steel",
     "minecraft:wheat",
