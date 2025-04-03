@@ -10343,12 +10343,6 @@
     },
     "done": true
   },
-  "minecraft:husbandry/complete_catalogue": {
-    "criteria": {
-      "minecraft:jellie": "2025-02-15 21:49:33 +0200"
-    },
-    "done": false
-  },
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2025-02-15 20:29:33 +0200"
@@ -10360,6 +10354,12 @@
       "has_polished_granite": "2025-02-15 20:29:33 +0200"
     },
     "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:jellie": "2025-02-15 21:49:33 +0200"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
