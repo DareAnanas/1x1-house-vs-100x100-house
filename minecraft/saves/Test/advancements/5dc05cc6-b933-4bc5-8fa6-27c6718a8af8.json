@@ -2767,6 +2767,7 @@
   },
   "silentgear:swords": {
     "criteria": {
+      "sword": "2025-04-21 11:10:57 +0300",
       "katana": "2024-12-07 15:21:03 +0200"
     },
     "done": false
@@ -4083,7 +4084,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_chicken": "2025-02-04 19:23:24 +0200"
+      "cooked_chicken": "2025-02-04 19:23:24 +0200",
+      "enchanted_golden_apple": "2025-04-21 11:16:15 +0300"
     },
     "done": false
   },
@@ -4231,18 +4233,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
-    "criteria": {
-      "has_yellow_terracotta": "2025-02-13 17:39:36 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/orange_glazed_terracotta": {
-    "criteria": {
-      "has_orange_terracotta": "2025-02-13 17:39:37 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_red_sandstone_slab": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-02-13 17:39:24 +0200"
@@ -4258,6 +4248,132 @@
   "minecraft:recipes/building_blocks/smooth_red_sandstone_stairs": {
     "criteria": {
       "has_smooth_red_sandstone": "2025-02-13 17:39:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-02-13 17:39:36 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-02-13 17:39:37 +0200"
+    },
+    "done": true
+  },
+  "silentgear:grader_catalyst_3": {
+    "criteria": {
+      "get_item": "2025-04-21 11:00:30 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-21 10:58:51 +0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk": {
+    "criteria": {
+      "has_item": "2025-04-21 11:08:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:nether/netherite_armor": {
+    "criteria": {
+      "netherite_armor": "2025-04-21 11:14:54 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "silentgear:material_grader": {
+    "criteria": {
+      "get_grader": "2025-04-21 11:00:08 +0300"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-21 11:36:04 +0300"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/fine_silk_cloth": {
+    "criteria": {
+      "has_item": "2025-04-21 11:08:48 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-04-21 10:59:51 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-21 11:15:01 +0300"
     },
     "done": true
   },

@@ -21,11 +21,124 @@
         "id": "minecraft:glass_pane",
         "amount": 34
       }
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:coal",
+        "amount": 2
+      }
+    },
+    {
+      "stack": "item:silentgear:tyrian_steel_ingot"
+    },
+    {
+      "stack": "item:minecraft:netherite_scrap"
+    },
+    {
+      "stack": "item:silentgear:crushed_shulker_shell"
+    },
+    {
+      "stack": "item:silentgear:azure_electrum_ingot"
+    },
+    {
+      "stack": "item:silentgear:crimson_steel_ingot"
+    },
+    {
+      "stack": "item:minecraft:lectern"
+    },
+    {
+      "stack": {
+        "type": "item",
+        "id": "minecraft:rotten_flesh",
+        "amount": 45
+      }
     }
   ],
   "lookup_history": [
-    "item:minecraft:redstone_lamp",
+    "item:silentgear:fletching_blueprint",
+    "item:silentgear:fletching",
+    "item:silentgear:arrow_blueprint",
+    {
+      "type": "item",
+      "id": "minecraft:ender_eye",
+      "amount": 16
+    },
+    "item:silentgear:coating_blueprint",
+    "item:silentgear:tip_blueprint",
+    "item:silentgear:grip_blueprint",
+    "item:silentgear:binding_blueprint",
+    "item:silentgear:nether_star_fragment",
+    {
+      "type": "item",
+      "id": "silentgear:starmetal_dust",
+      "amount": 64
+    },
+    {
+      "type": "item",
+      "id": "silentgear:tyrian_steel_block",
+      "amount": 64
+    },
+    "item:silentgear:starlight_charger",
+    "item:silentgear:sword_blueprint",
+    {
+      "type": "item",
+      "id": "silentgear:tyrian_steel_ingot",
+      "amount": 2
+    },
+    {
+      "type": "item",
+      "id": "minecraft:ancient_debris",
+      "amount": 5
+    },
+    "item:netherite_ore_remined:netherite_plate",
+    "item:netherite_ore_remined:raw_netherite",
+    {
+      "type": "item",
+      "id": "netherite_ore_remined:netherite_fragment",
+      "amount": 2
+    },
+    "item:silentgear:azure_electrum_ingot",
+    "item:minecraft:netherite_scrap",
+    "item:silentgear:crushed_shulker_shell",
+    "item:silentgear:katana{Damage:0,Enchantments:[{id:\"minecraft:looting\",lvl:3s},{id:\"minecraft:sharpness\",lvl:4s},{id:\"minecraft:unbreaking\",lvl:3s},{id:\"minecraft:mending\",lvl:1s}],RepairCost:15,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:katana_blade\",Item:{Count:1b,id:\"silentgear:katana_blade\",tag:{Damage:0,Materials:[{Count:3b,ID:\"silentgear:azure_electrum\",Item:{Count:1b,id:\"silentgear:azure_electrum_ingot\",tag:{}}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:bone\",Item:{Count:1b,id:\"minecraft:bone_block\"}}]}}},{ID:\"silentgear:grip\",Item:{Count:1b,id:\"silentgear:grip\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:leather\",Item:{Count:1b,id:\"minecraft:leather\",tag:{}}}]}}},{ID:\"silentgear:binding\",Item:{Count:1b,id:\"silentgear:binding\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:string\",Item:{Count:1b,id:\"minecraft:string\",tag:{}}}]}}}]},Properties:{HarvestTier:\"minecraft:netherite\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-2.4499998f,\"silentgear:charging_value\":1.5f,\"silentgear:durability\":1416.375f,\"silentgear:enchantment_value\":33.3f,\"silentgear:harvest_speed\":33.35f,\"silentgear:magic_damage\":11.0f,\"silentgear:melee_damage\":12.4f,\"silentgear:rarity\":109.0f,\"silentgear:repair_efficiency\":1.15f},Traits:[{Level:3b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:accelerate\"},{Level:3b,Name:\"silentgear:flexible\"}]},Rendering:{Model:11,ModelKey:\"katana:katana_blade{azure_electrum,azure_electrum,azure_electrum},rod{bone},grip{leather},binding{string},\"}},SGear_UUID:[I;1145972599,-630110359,-1738497865,2111149594]}",
     "item:minecraft:barrel",
+    "item:minecraft:lectern",
+    "item:minecraft:bookshelf",
+    "item:silentgear:elytra{Damage:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:elytra_wings\",Item:{Count:1b,id:\"silentgear:elytra_wings\",tag:{CraftedCount:1,Damage:0,Materials:[{Count:6b,ID:\"silentgear:sheet_metal\",Item:{Count:1b,id:\"silentgear:sheet_metal\",tag:{Material:{ID:\"silentgear:tyrian_steel\",Item:{Count:1b,id:\"silentgear:tyrian_steel_ingot\"}}}}}]}}},{ID:\"silentgear:binding\",Item:{Count:1b,id:\"silentgear:binding\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:string\",Item:{Count:1b,id:\"minecraft:string\"}}]}}}]},Properties:{HarvestTier:\"minecraft:wood\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:armor\":0.875f,\"silentgear:armor_durability\":48.600002f,\"silentgear:armor_toughness\":1.4999999f,\"silentgear:charging_value\":1.1000001f,\"silentgear:durability\":0.0f,\"silentgear:enchantment_value\":16.0f,\"silentgear:magic_armor\":2.9999998f,\"silentgear:projectile_accuracy\":1.1000001f,\"silentgear:projectile_speed\":1.1000001f,\"silentgear:rarity\":100.0f,\"silentgear:repair_efficiency\":1.05f},Traits:[{Level:3b,Name:\"silentgear:sturdy\"},{Level:1b,Name:\"silentgear:void_ward\"},{Level:1b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"elytra:elytra_wings{sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel]},binding{string},\"}},SGear_UUID:[I;-1588553216,-1271509706,-2028927226,-792693780]}",
+    "item:silentgear:elytra_wings{CraftedCount:1,Damage:0,Materials:[{Count:6b,ID:\"silentgear:sheet_metal\",Item:{Count:1b,id:\"silentgear:sheet_metal\",tag:{Material:{ID:\"silentgear:tyrian_steel\",Item:{Count:1b,id:\"silentgear:tyrian_steel_ingot\"}}}}}]}",
+    "item:silentgear:elytra_blueprint",
+    "item:minecraft:magma_cream",
+    "item:silentgear:crimson_steel_ingot",
+    "item:silentgear:azure_silver_ingot",
+    "item:minecraft:emerald",
+    "item:minecraft:gunpowder",
+    "item:minecraft:potion{Potion:\"minecraft:strong_regeneration\"}",
+    "item:minecraft:potion{Potion:\"minecraft:regeneration\"}",
+    "item:minecraft:potion{Potion:\"minecraft:water\"}",
+    "item:minecraft:potion{Potion:\"minecraft:awkward\"}",
+    "item:minecraft:potion{Potion:\"minecraft:long_regeneration\"}",
+    {
+      "type": "item",
+      "id": "minecraft:polished_basalt",
+      "amount": 4
+    },
+    {
+      "type": "item",
+      "id": "minecraft:basalt",
+      "amount": 64
+    },
+    "item:minecraft:repeater",
+    "item:minecraft:redstone_torch",
+    "item:minecraft:spruce_trapdoor",
+    "item:minecraft:chiseled_stone_bricks",
+    {
+      "type": "item",
+      "id": "minecraft:stone_bricks",
+      "amount": 64
+    },
+    "item:minecraft:polished_blackstone_bricks",
+    "item:minecraft:redstone_lamp",
     "item:minecraft:polished_blackstone",
     "item:minecraft:polished_blackstone_stairs",
     "item:minecraft:deepslate_bricks",
@@ -38,7 +151,6 @@
     "item:minecraft:cyan_terracotta",
     "item:minecraft:oak_planks",
     "item:pneumaticcraft:electrostatic_compressor",
-    "item:silentgear:azure_electrum_ingot",
     "item:minecraft:clay",
     "item:minecraft:terracotta",
     {
@@ -49,11 +161,6 @@
     "item:minecraft:red_sandstone",
     "item:minecraft:smooth_red_sandstone",
     "item:pneumaticcraft:reinforced_pressure_tube",
-    {
-      "type": "item",
-      "id": "netherite_ore_remined:raw_netherite",
-      "amount": 7
-    },
     "item:silentgear:golden_nether_banana",
     "item:minecraft:gilded_blackstone",
     "item:minecraft:lodestone",
@@ -107,16 +214,6 @@
     "item:pneumaticcraft:jet_boots_upgrade_2",
     "item:pneumaticcraft:jet_boots_upgrade_3",
     "item:pneumaticcraft:jet_boots_upgrade_4",
-    {
-      "type": "item",
-      "id": "silentgear:starmetal_dust",
-      "amount": 3
-    },
-    {
-      "type": "item",
-      "id": "silentgear:nether_star_fragment",
-      "amount": 9
-    },
     "item:charginggadgets:charging_station{}",
     "item:minecraft:coal_block",
     "item:buildinggadgets2:template_manager",
@@ -148,11 +245,6 @@
     "item:silentgear:yellow_fluffy_block",
     "item:minecraft:nether_brick",
     "item:minecraft:nether_bricks",
-    {
-      "type": "item",
-      "id": "minecraft:emerald",
-      "amount": 47
-    },
     "item:minecraft:filled_map",
     {
       "type": "item",
@@ -168,24 +260,7 @@
     "item:minecraft:blaze_spawn_egg",
     "item:minecraft:blaze_rod",
     "item:minecraft:diamond_pickaxe{Damage:0,Enchantments:[{id:\"minecraft:unbreaking\",lvl:3s}]}",
-    "item:silentgear:elytra{Damage:25,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:elytra_wings\",Item:{Count:1b,id:\"silentgear:elytra_wings\",tag:{CraftedCount:1,Damage:0,Materials:[{Count:6b,ID:\"silentgear:sheet_metal\",Item:{Count:1b,id:\"silentgear:sheet_metal\",tag:{Material:{ID:\"silentgear:tyrian_steel\",Item:{Count:1b,id:\"silentgear:tyrian_steel_ingot\"}}}}}]}}},{ID:\"silentgear:binding\",Item:{Count:1b,id:\"silentgear:binding\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:string\",Item:{Count:1b,id:\"minecraft:string\"}}]}}}]},Properties:{HarvestTier:\"minecraft:wood\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:armor\":0.875f,\"silentgear:armor_durability\":48.600002f,\"silentgear:armor_toughness\":1.4999999f,\"silentgear:charging_value\":1.1000001f,\"silentgear:durability\":0.0f,\"silentgear:enchantment_value\":16.0f,\"silentgear:magic_armor\":2.9999998f,\"silentgear:projectile_accuracy\":1.1000001f,\"silentgear:projectile_speed\":1.1000001f,\"silentgear:rarity\":100.0f,\"silentgear:repair_efficiency\":1.05f},Traits:[{Level:3b,Name:\"silentgear:sturdy\"},{Level:1b,Name:\"silentgear:void_ward\"},{Level:1b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"elytra:elytra_wings{sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel],sheet_metal[tyrian_steel]},binding{string},\"}},SGear_UUID:[I;1752180786,-936818201,-1738265978,1496420240]}",
-    "item:silentgear:elytra_wings{CraftedCount:1,Damage:0,Materials:[{ID:\"silentgear:example\"}]}",
-    "item:silentgear:elytra_blueprint",
-    {
-      "type": "item",
-      "id": "netherite_ore_remined:netherite_plate",
-      "amount": 4
-    },
-    {
-      "type": "item",
-      "id": "netherite_ore_remined:netherite_fragment",
-      "amount": 22
-    },
     "item:minecraft:ghast_tear",
-    "item:silentgear:crushed_shulker_shell",
-    "item:silentgear:tyrian_steel_ingot",
-    "item:minecraft:netherite_scrap",
-    "item:minecraft:ancient_debris",
     "item:silentgear:nether_banana",
     {
       "type": "item",
@@ -201,16 +276,11 @@
     "item:silentgear:rod_blueprint",
     "item:silentgear:azure_repair_kit",
     "item:minecraft:anvil",
-    "item:silentgear:tip_blueprint",
-    "item:silentgear:coating_blueprint",
     "item:silentgear:coating{CraftedCount:1,Materials:[{ID:\"silentgear:example\"}]}",
-    "item:silentgear:binding_blueprint",
     "item:silentgear:fine_silk",
     "item:silentgear:fine_silk_cloth",
-    "item:silentgear:grip_blueprint",
     "item:silentgear:blueprint_paper",
     "item:silentgear:grip{CraftedCount:1,Materials:[{ID:\"silentgear:example\"}]}",
-    "item:silentgear:katana{Damage:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:katana_blade\",Item:{Count:1b,id:\"silentgear:katana_blade\",tag:{Damage:0,Materials:[{Count:3b,ID:\"silentgear:azure_electrum\",Item:{Count:1b,id:\"silentgear:azure_electrum_ingot\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:end_rod\",Item:{Count:1b,id:\"minecraft:air\",tag:{Damage:0}}}]}}}]},Properties:{HarvestTier:\"minecraft:netherite\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":-2.6f,\"silentgear:charging_value\":1.5f,\"silentgear:durability\":1416.375f,\"silentgear:enchantment_value\":33.3f,\"silentgear:harvest_speed\":34.8f,\"silentgear:magic_damage\":11.0f,\"silentgear:melee_damage\":11.7f,\"silentgear:rarity\":109.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:3b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:accelerate\"},{Level:4b,Name:\"silentgear:flexible\"},{Level:2b,Name:\"silentgear:sturdy\"},{Level:1b,Name:\"silentgear:refractive\"}]},Rendering:{Model:3,ModelKey:\"katana:katana_blade{azure_electrum,azure_electrum,azure_electrum},rod{end_rod},\"}},SGear_UUID:[I;419521641,783108964,-1903190570,-944277905]}",
     "item:silentgear:katana_blueprint",
     "item:silentgear:shield_blueprint",
     "item:minecraft:enchanted_book{StoredEnchantments:[{id:\"minecraft:protection\",lvl:4s}]}",
@@ -219,7 +289,6 @@
       "id": "minecraft:oak_fence",
       "amount": 27
     },
-    "item:silentgear:fletching_blueprint",
     "item:minecraft:netherite_ingot",
     "item:minecraft:phantom_membrane",
     "item:minecraft:saddle",
@@ -227,11 +296,6 @@
     "item:minecraft:iron_leggings{Damage:0,Enchantments:[{id:\"minecraft:protection\",lvl:3s}]}",
     "item:silentgear:binding",
     "item:minecraft:elytra{Damage:0}",
-    {
-      "type": "item",
-      "id": "silentgear:crimson_steel_ingot",
-      "amount": 2
-    },
     "item:silentgear:metal_press",
     "item:silentgear:arrow{Damage:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:arrow_heads\",Item:{Count:1b,id:\"silentgear:arrow_heads\",tag:{Damage:0,Materials:[{ID:\"silentgear:azure_silver\",Item:{Count:1b,id:\"silentgear:azure_silver_ingot\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:wood\",Item:{Count:1b,id:\"minecraft:mangrove_planks\"}}]}}},{ID:\"silentgear:fletching\",Item:{Count:1b,id:\"silentgear:fletching\",tag:{CraftedCount:1,Materials:[{ID:\"silentgear:feather\",Item:{Count:1b,id:\"minecraft:feather\"}}]}}}],RepairCount:2},Properties:{HarvestTier:\"minecraft:diamond\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:charging_value\":1.4f,\"silentgear:durability\":197.0f,\"silentgear:enchantment_value\":29.0f,\"silentgear:harvest_speed\":19.0f,\"silentgear:magic_damage\":7.0f,\"silentgear:projectile_accuracy\":1.1f,\"silentgear:projectile_speed\":1.0757359f,\"silentgear:ranged_damage\":2.0f,\"silentgear:rarity\":83.0f,\"silentgear:repair_efficiency\":0.75f},Traits:[{Level:3b,Name:\"silentgear:malleable\"},{Level:2b,Name:\"silentgear:flexible\"}]},Rendering:{Model:3,ModelKey:\"arrow:arrow_heads{azure_silver},rod{wood},fletching{feather},\"}},SGear_UUID:[I;-717336331,-2006759145,-1452093559,1753139097]}",
     "item:silentgear:bow{Damage:0,SGear_Data:{Construction:{Parts:[{ID:\"silentgear:bow_limbs\",Item:{Count:1b,id:\"silentgear:bow_limbs\",tag:{CraftedCount:1,Damage:0,Materials:[{Count:3b,ID:\"silentgear:azure_electrum\",Item:{Count:1b,id:\"silentgear:azure_electrum_ingot\"}}]}}},{ID:\"silentgear:rod\",Item:{Count:1b,id:\"silentgear:rod\",tag:{Materials:[{ID:\"silentgear:blaze_rod\",Item:{Count:1b,id:\"minecraft:air\",tag:{Damage:0}}}]}}},{ID:\"silentgear:bowstring\",Item:{Count:1b,id:\"silentgear:cord\",tag:{CraftedCount:1,Materials:[{Count:3b,ID:\"silentgear:string\",Item:{Count:1b,id:\"minecraft:string\"}}]}}}]},Properties:{HarvestTier:\"minecraft:netherite\",LockStats:0b,ModVersion:\"3.6.6\",Stats:{\"silentgear:attack_reach\":3.0f,\"silentgear:attack_speed\":0.0f,\"silentgear:charging_value\":1.5f,\"silentgear:durability\":1259.0f,\"silentgear:enchantment_value\":20.35f,\"silentgear:magic_damage\":11.0f,\"silentgear:projectile_accuracy\":1.5f,\"silentgear:projectile_speed\":2.0f,\"silentgear:ranged_damage\":5.3f,\"silentgear:ranged_speed\":1.0f,\"silentgear:rarity\":109.0f,\"silentgear:repair_efficiency\":1.0f},Traits:[{Level:4b,Name:\"silentgear:malleable\"},{Level:3b,Name:\"silentgear:accelerate\"},{Level:2b,Name:\"silentgear:flexible\"},{Level:1b,Name:\"silentgear:reach\"}]},Rendering:{Model:3,ModelKey:\"bow:bow_limbs{azure_electrum,azure_electrum,azure_electrum},rod{blaze_rod},bowstring{string,string,string},\"}},SGear_UUID:[I;-559681099,225398352,-1085327160,1015627968]}",
@@ -247,7 +311,6 @@
     "item:silentgear:lining_blueprint",
     "item:silentgear:chestplate_blueprint",
     "item:silentgear:helmet_plates{CraftedCount:1,Damage:0,Materials:[{Count:5b,ID:\"silentgear:tyrian_steel\",Item:{Count:1b,id:\"silentgear:tyrian_steel_ingot\"}}]}",
-    "item:silentgear:tyrian_steel_block",
     "item:silentgear:tyrian_steel_nugget",
     "item:minecraft:white_banner{BlockEntityTag:{Patterns:[{Color:9,Pattern:\"mr\"},{Color:8,Pattern:\"bs\"},{Color:7,Pattern:\"cs\"},{Color:8,Pattern:\"bo\"},{Color:15,Pattern:\"ms\"},{Color:8,Pattern:\"hh\"},{Color:8,Pattern:\"mc\"},{Color:15,Pattern:\"bo\"}],id:\"minecraft:banner\"},HideFlags:32,display:{Name:\u0027{\"color\":\"gold\",\"translate\":\"block.minecraft.ominous_banner\"}\u0027}}",
     "item:minecraft:birch_fence",
@@ -286,14 +349,8 @@
     "item:pneumaticcraft:spawner_extractor",
     "item:pneumaticcraft:drill_pipe",
     "item:pneumaticcraft:spawner_core{\"pneumaticcraft:SpawnerCoreStats\":{\"minecraft:creeper\":100}}",
-    "item:silentgear:arrow_blueprint",
     "item:silentgear:cord",
     "item:silentgear:bow_blueprint",
-    {
-      "type": "item",
-      "id": "silentgear:azure_silver_ingot",
-      "amount": 39
-    },
     "item:minecraft:blast_furnace",
     {
       "type": "item",
@@ -305,7 +362,6 @@
     "item:pneumaticcraft:vacuum_pump",
     "item:pneumaticcraft:turbine_rotor",
     "item:pneumaticcraft:vacuum_trap",
-    "item:minecraft:ender_eye",
     "item:minecraft:iron_trapdoor",
     "item:pneumaticcraft:reinforced_stone_slab",
     {
@@ -350,7 +406,6 @@
     },
     "item:pneumaticcraft:memory_stick{AbsorbXPOrbs:0b,BlockEntityTag:{SavedTanks:{Tank:{Amount:324240,FluidName:\"pneumaticcraft:memory_essence\"}}}}",
     "item:pneumaticcraft:spawner_core_shell",
-    "item:minecraft:gunpowder",
     "item:minecraft:firework_rocket{Fireworks:{Flight:3b}}",
     "item:pneumaticcraft:spawner_agitator",
     "item:pneumaticcraft:logistics_core",
@@ -549,7 +604,6 @@
     "item:silentgear:material_grader",
     "item:silentgear:gear_smithing_table",
     "item:silentgear:salvager",
-    "item:silentgear:starlight_charger",
     "item:pneumaticcraft:drill_bit_netherite",
     "item:minecraft:netherite_pickaxe{Damage:0}",
     "item:netherite_ore_remined:netherite_ore",
@@ -601,7 +655,6 @@
       "amount": 9
     },
     "item:minecraft:golden_apple",
-    "item:minecraft:magma_cream",
     "item:pneumaticcraft:display_table",
     "item:silentgear:upgrade_base",
     "item:silentgear:glowing_dust",
@@ -658,7 +711,6 @@
       "id": "pneumaticcraft:printed_circuit_board",
       "amount": 4
     },
-    "item:silentgear:fletching",
     "item:pneumaticcraft:etching_tank",
     "item:pneumaticcraft:reinforced_brick_slab",
     "item:pneumaticcraft:reinforced_bricks",
@@ -710,7 +762,6 @@
     "item:silentgear:fluffy_feather",
     "item:pneumaticcraft:plastic_bucket",
     "item:silentgear:very_crude_repair_kit{Storage:{}}",
-    "item:silentgear:sword_blueprint",
     "item:silentgear:machete_blueprint",
     "item:pneumaticcraft:gps_area_tool",
     "item:minecraft:poisonous_potato",
@@ -879,30 +930,59 @@
     "item:minecraft:waxed_exposed_cut_copper"
   ],
   "craft_history": [
+    "silentgear:gear/arrow_quick",
+    "minecraft:ender_eye",
+    "minecraft:blaze_powder",
+    "minecraft:paper",
+    "silentgear:part/coating",
+    "silentgear:gear/katana_quick",
+    "silentgear:gear/sword_quick",
+    "minecraft:firework_rocket",
+    "silentgear:gear/elytra",
+    "silentgear:part/binding",
+    "silentgear:gear/elytra_wings",
+    "minecraft:barrel",
+    "minecraft:lectern",
+    "minecraft:oak_slab",
+    "minecraft:oak_planks",
+    "minecraft:crafting_table",
+    "minecraft:bookshelf",
+    "minecraft:smoker",
+    "minecraft:glass_bottle",
+    "minecraft:andesite_slab",
+    "minecraft:glass_pane",
+    "minecraft:spruce_door",
+    "minecraft:stone_brick_slab",
+    "minecraft:ladder",
+    "minecraft:stick",
+    "minecraft:stone_brick_stairs",
+    "minecraft:stone_bricks",
+    "minecraft:repeater",
+    "minecraft:redstone_torch",
+    "minecraft:andesite_stairs",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:polished_blackstone_brick_slab",
+    "minecraft:chiseled_stone_bricks",
+    "minecraft:diamond_axe",
+    "minecraft:spruce_trapdoor",
+    "minecraft:polished_andesite_stairs",
+    "minecraft:diorite_stairs",
+    "minecraft:deepslate_bricks",
+    "minecraft:polished_deepslate",
     "minecraft:redstone_lamp",
     "minecraft:glowstone",
-    "minecraft:diorite_stairs",
-    "minecraft:polished_blackstone_brick_stairs",
-    "minecraft:polished_blackstone_brick_wall",
-    "minecraft:barrel",
     "minecraft:scaffolding",
     "minecraft:deepslate_brick_wall",
     "minecraft:diorite_wall",
-    "minecraft:stone_bricks",
     "minecraft:furnace",
     "minecraft:birch_sign",
-    "minecraft:stick",
     "minecraft:birch_planks",
-    "minecraft:firework_rocket",
-    "minecraft:paper",
-    "minecraft:andesite_slab",
     "minecraft:lever",
     "minecraft:deepslate_brick_stairs",
     "minecraft:polished_blackstone_stairs",
     "minecraft:polished_blackstone",
     "minecraft:polished_blackstone_wall",
-    "minecraft:deepslate_bricks",
-    "minecraft:polished_deepslate",
     "minecraft:golden_carrot",
     "minecraft:gold_nugget",
     "minecraft:gold_ingot_from_gold_block",
@@ -923,19 +1003,14 @@
     "minecraft:oak_stairs",
     "minecraft:red_sandstone",
     "minecraft:green_dye",
-    "minecraft:oak_slab",
-    "minecraft:oak_planks",
     "minecraft:oak_sign",
     "silentgear:part/grip",
-    "silentgear:part/binding",
     "silentgear:gear/axe_quick",
     "silentgear:azure_electrum_ingot",
     "minecraft:orange_terracotta",
     "minecraft:orange_dye_from_orange_tulip",
     "netherite_ore_remined:pure_netherite",
-    "minecraft:glass_pane",
     "minecraft:glistering_melon_slice",
-    "minecraft:blaze_powder",
     "minecraft:polished_diorite_stairs",
     "minecraft:diamond_hoe",
     "silentgear:crimson_iron_ingot_from_block",
@@ -961,12 +1036,8 @@
     "minecraft:red_concrete_powder",
     "minecraft:red_dye_from_rose_bush",
     "minecraft:red_dye_from_tulip",
-    "minecraft:stone_brick_stairs",
-    "minecraft:andesite_stairs",
     "minecraft:compass",
     "netherite_ore_remined:netherite",
-    "silentgear:gear/elytra",
-    "silentgear:gear/elytra_wings",
     "silentgear:crushed_shulker_shell",
     "minecraft:iron_hoe",
     "minecraft:crimson_planks",
@@ -974,7 +1045,6 @@
     "minecraft:anvil",
     "minecraft:iron_block",
     "silentgear:part/grip2",
-    "silentgear:gear/katana_quick",
     "silentgear:tip_blueprint",
     "silentgear:blueprint_paper",
     "silentgear:binding_blueprint_alt",
@@ -983,7 +1053,6 @@
     "silentgear:grip_blueprint_alt",
     "silentgear:gear/shield",
     "minecraft:oak_door",
-    "silentgear:gear/arrow_quick",
     "silentgear:part/fletching",
     "silentgear:gear/bow",
     "silentgear:part/cord",
@@ -1029,15 +1098,12 @@
     "minecraft:blast_furnace",
     "silentgear:bow_blueprint",
     "minecraft:bow",
-    "minecraft:redstone_torch",
     "pneumaticcraft:vacuum_pump",
     "pneumaticcraft:turbine_rotor",
     "pneumaticcraft:vacuum_trap",
-    "minecraft:ender_eye",
     "minecraft:iron_trapdoor",
     "pneumaticcraft:reinforced_stone_slab",
     "pneumaticcraft:spawner_core_shell",
-    "minecraft:crafting_table",
     "minecraft:oak_button",
     "silentgear:coating_smithing_template",
     "minecraft:smithing_table",
@@ -1046,7 +1112,6 @@
     "minecraft:bucket",
     "pneumaticcraft:compressed_iron_gear",
     "pneumaticcraft:module_expansion_card",
-    "minecraft:ladder",
     "minecraft:birch_trapdoor",
     "minecraft:birch_door",
     "refinedstorage:cable",
@@ -1110,7 +1175,6 @@
     "silentgear:chestplate_blueprint",
     "silentgear:leggings_blueprint",
     "silentgear:shield_blueprint",
-    "minecraft:smoker",
     "pneumaticcraft:liquid_compressor",
     "pneumaticcraft:air_compressor",
     "minecraft:iron_bars",
@@ -1150,7 +1214,6 @@
     "pneumaticcraft:uv_light_box",
     "minecraft:granite_slab",
     "minecraft:jukebox",
-    "minecraft:bookshelf",
     "minecraft:enchanting_table",
     "minecraft:fletching_table",
     "silentgear:excavator_blueprint",

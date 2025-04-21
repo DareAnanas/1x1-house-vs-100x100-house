@@ -1,11 +1,11 @@
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
-waypoint:gui.xaero_deathpoint:D:2380:-42:-915:0:false:1:gui.xaero_default:false:0:1:true
+waypoint:Stronghold 2:S:-1709:189:-1342:9:false:0:gui.xaero_default:false:0:0:false
+waypoint:Enchantix:E:2021:199:-981:5:false:0:gui.xaero_default:false:0:0:false
 waypoint:gui.xaero_deathpoint_old:D:2320:-280:-1122:0:false:2:gui.xaero_default:false:0:1:true
 waypoint:Ruins:R:1194:121:-2032:12:false:0:gui.xaero_default:false:0:0:false
 waypoint:Skeleton spawner 1:S:1497:130:-618:7:false:0:gui.xaero_default:false:0:0:false
-waypoint:Diamond 1:D:2408:-36:-985:3:false:0:gui.xaero_default:false:0:0:false
 waypoint:Zombie Spawner 1:Z:1595:180:-973:2:false:0:gui.xaero_default:false:0:0:false
 waypoint:Morlorizur:M:639:124:-742:0:false:0:gui.xaero_default:false:0:0:false
 waypoint:Azakircred:A:1424:137:-781:2:false:0:gui.xaero_default:false:0:0:false
