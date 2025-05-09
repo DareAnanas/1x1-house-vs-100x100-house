@@ -68,6 +68,13 @@
     }
   ],
   "lookup_history": [
+    "item:beo:aluminum_nugget",
+    "item:waystones:warp_plate",
+    "item:waystones:sharestone",
+    "item:waystones:sandy_waystone",
+    "item:waystones:mossy_waystone",
+    "item:waystones:waystone",
+    "item:waystones:warp_stone{Damage:0}",
     "item:silentgear:tyrian_steel_ingot",
     "item:minecraft:lava_bucket",
     "item:minecraft:emerald",
@@ -678,7 +685,6 @@
       "id": "pneumaticcraft:advanced_pressure_tube",
       "amount": 64
     },
-    "item:waystones:warp_stone{Damage:0}",
     {
       "type": "item",
       "id": "minecraft:netherite_upgrade_smithing_template",
@@ -937,7 +943,6 @@
     "item:minecraft:jungle_button",
     "item:silentgear:bronze_ingot",
     "item:silentgear:shears_template",
-    "item:waystones:waystone",
     "item:minecraft:emerald_block",
     "item:minecraft:waxed_exposed_cut_copper"
   ],

@@ -1,0 +1,8 @@
+[
+    {
+    "mob": "minecraft:villager",
+    "baby": true,
+    "when": "onjoin",
+    "result": "deny"
+    }
+]

@@ -1,0 +1,27 @@
+[21:31:56.587][INFO][CraftTweaker-EarlyInit]: CraftTweaker is running on a Minecraft 1.20.1 production client modded with platform Forge
+[21:31:56.642][INFO][CraftTweaker-EarlyInit]: Successfully injected RecipeFS file system
+[21:31:56.757][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin
+[21:31:56.760][INFO][CraftTweaker-Plugins]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[21:31:59.664][INFO][CraftTweaker]: The following mods have explicit CraftTweaker support through the default plugin:
+[21:31:59.668][INFO][CraftTweaker]: - 'crafttweaker' at version '14.0.57'
+[21:31:59.668][INFO][CraftTweaker]: - 'pneumaticcraft' at version '6.0.17+mc1.20.1'
+[21:32:15.296][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'initialize'
+[21:32:16.481][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:32:16.633][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:32:17.023][INFO][CraftTweaker-ZenCode]: Execution for loader 'initialize' completed successfully
+[21:33:02.332][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[21:33:02.488][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:33:02.581][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:33:02.650][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[21:33:04.644][INFO][CraftTweaker]: CraftTweaker reload starting!
+[21:33:04.653][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[21:33:04.816][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:33:06.343][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:33:06.344][INFO][CraftTweaker-ZenCode]: Loading file 'waystonesRemoveRecipe.zs' with priority 0
+[21:33:06.390][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[waystones:waystone]'
+[21:33:06.391][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[waystones:mossy_waystone]'
+[21:33:06.391][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[waystones:mossy_waystone_convert]'
+[21:33:06.391][INFO][CraftTweaker]: Removing 'minecraft:crafting' recipe(s) with name(s): '[waystones:sandy_waystone]'
+[21:33:06.391][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[21:33:06.397][INFO][CraftTweaker]: CraftTweaker reload complete!
+[21:33:06.398][INFO][CraftTweaker]: This reload was made possible by Spencer Gilbert and more! Become a patron at https://patreon.com/jaredlll08?s=crtmod
